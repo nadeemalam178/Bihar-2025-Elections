@@ -1,0 +1,2416 @@
+{
+  "assembly": [
+    {
+      "zone": "Tirhut",
+      "loksabha": "16. Vaishali",
+      "assembly": "Paroo",
+      "details": "Paroo\n\nMLA- Shankar Prasad ( RJD )\nCaste - Yadav\nVotes - 95272\n\nRunner Up- Madan Choudhry ( RLM )\nCaste - Baniya\nVotes - 66445\n\n2nd Runner Up- Ashok Kumar Singh ( IND )\nCaste - Rajput\nVotes - 40661\n\n3rd Runner Up- Ranjana Kumari ( JSP )\nCaste - Bhumihar\nVotes - 6825"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "15. Muzaffarpur",
+      "assembly": "Gaighat",
+      "details": "Gaighat\n\nMLA- Komal Singh ( JDU )\nCaste - Rajput\nVotes - 108104\n\nRunner Up- Niranjan Roy ( RJD )\nCaste - Yadav\nVotes - 84687\n\n2nd Runner Up- Ashok Kumar Singh ( JSP )\nCaste - Rajput\nVotes - 10790\n\n3rd Runner Up- Subodh Kumar Singh ( IND )\nCaste - Rajput\nVotes - 6157"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "16. Vaishali",
+      "assembly": "Minapur",
+      "details": "Minapur\r\n\r\nMLA- Ajay Kumar ( JDU )\r\nCaste - Kushwaha\r\nVotes - 113411\r\n\r\nRunner Up- Rajeev Kumar Urf Munna Yadav ( RJD )\r\nCaste - Yadav\r\nVotes - 79173\r\n\r\n2nd Runner Up- Tej Narayan Sahani ( JSP )\r\nCaste - Mallah\r\nVotes - 6633\r\n\r\n3rd Runner Up- Kumar Pushpendra ( BSP )\r\nCaste - SC (Ram)*\r\nVotes - 3162"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "16. Vaishali",
+      "assembly": "Sahebganj",
+      "details": "Sahebganj\r\n\r\nMLA- Raju Kumar Singh ( BJP )\r\nCaste - Rajput\r\nVotes - 106322\r\n\r\nRunner Up- Prithwinath Ray ( RJD )\r\nCaste - Yadav\r\nVotes - 92800\r\n\r\n2nd Runner Up- Thakur Hari Kishore Singh ( JSP )\r\nCaste - Rajput\r\nVotes - 4197\r\n\r\n3rd Runner Up- Vikky Kumar ( IND )\r\nCaste - Unknown\r\nVotes - 4187"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "16. Vaishali",
+      "assembly": "Kanti",
+      "details": "Kanti\r\n\r\nMLA- Ajit Kumar ( JDU )\r\nCaste - Bhumihar\r\nVotes - 117299\r\n\r\nRunner Up- Mohammad Israil Mansuri ( RJD )\r\nCaste - Minority\r\nVotes - 91504\r\n\r\n2nd Runner Up- Sudarshan Mishra ( JSP )\r\nCaste - Bhumihar\r\nVotes - 4251\r\n\r\n3rd Runner Up- Suresh Kumar Gupta ( IND )\r\nCaste - Bania\r\nVotes - 2889"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "15. Muzaffarpur",
+      "assembly": "Muzaffarpur",
+      "details": "Muzaffarpur\r\n\r\nMLA- Ranjan Kumar ( BJP )\r\nCaste - Bhumihar\r\nVotes - 100477\r\n\r\nRunner Up- Bijendra Chaudhary ( INC )\r\nCaste - Kalwar\r\nVotes - 67820\r\n\r\n2nd Runner Up- Dr. A.K. Das ( JSP )\r\nCaste - Kayasth\r\nVotes - 10173\r\n\r\n3rd Runner Up- Sanjay Kumar Kejriwal ( IND )\r\nCaste - Marwari\r\nVotes - 1651"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "15. Muzaffarpur",
+      "assembly": "Bochaha (SC)",
+      "details": "Bochaha (SC)\r\n\r\nMLA- Baby Kumari ( LJP-R )\r\nCaste - Dhobi\r\nVotes - 108186\r\n\r\nRunner Up- Amar Kumar Paswan ( RJD )\r\nCaste - Dusadh\r\nVotes - 87870\r\n\r\n2nd Runner Up- Umesh Kumar Rajak ( JSP )\r\nCaste - Dhobi\r\nVotes - 5255\r\n\r\n3rd Runner Up- Rajgeer Paswan ( BJKVP )\r\nCaste - Dusadh\r\nVotes - 3812"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "16. Vaishali",
+      "assembly": "Baruraj",
+      "details": "Baruraj\r\n\r\nMLA- Arun Kumar Singh ( BJP )\r\nCaste - Rajput\r\nVotes - 96879\r\n\r\nRunner Up- Rakesh Kumar ( VIP )\r\nCaste - Yadav\r\nVotes - 67827\r\n\r\n2nd Runner Up- Hiralal Kharia ( JSP )\r\nCaste - Kharia\r\nVotes - 19935\r\n\r\n3rd Runner Up- Awadhesh Kumar Gupta ( IND )\r\nCaste - Bania\r\nVotes - 4857"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "15. Muzaffarpur",
+      "assembly": "Sakra (SC)",
+      "details": "Sakra (SC)\r\n\r\nMLA- Aditya Kumar ( JDU )\r\nCaste - Pasi\r\nVotes - 98723\r\n\r\nRunner Up- Umesh Kumar Ram ( INC )\r\nCaste - Ravidas\r\nVotes - 83673\r\n\r\n2nd Runner Up- Renu Kumari Urf Renu Paswan ( JSP )\r\nCaste - Dusadh\r\nVotes - 6414\r\n\r\n3rd Runner Up- Sateesh Kumar ( IND )\r\nCaste - Unknown\r\nVotes - 3594"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "15. Muzaffarpur",
+      "assembly": "Kurhani",
+      "details": "Kurhani\r\n\r\nMLA- Kedar Pd Gupta ( BJP )\r\nCaste - Kanu\r\nVotes - 107811\r\n\r\nRunner Up- Sunil Kumar Suman ( RJD )\r\nCaste - Kushwaha\r\nVotes - 98093\r\n\r\n2nd Runner Up- Dharmendra Kumar ( IND )\r\nCaste - Teli\r\nVotes - 6733\r\n\r\n3rd Runner Up- Mohammad Ali Irfan ( JSP )\r\nCaste - Minority\r\nVotes - 4075"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "15. Muzaffarpur",
+      "assembly": "Aurai",
+      "details": "Aurai\r\n\r\nMLA- Rama Nishad ( BJP )\r\nCaste - Mallah\r\nVotes - 104085\r\n\r\nRunner Up- Bhogendra Sahni ( VIP )\r\nCaste - Mallah\r\nVotes - 46879\r\n\r\n2nd Runner Up- Md. Aftab Alam ( ASP-Kanshi Ram )\r\nCaste - Minority\r\nVotes - 31430\r\n\r\n3rd Runner Up- Akhilesh Kumar ( IND )\r\nCaste - Unknown\r\nVotes - 8915\r\n\r\n4th Runner Up- Radha Raman ( JSP )\r\nCaste - Bhumihar\r\nVotes - 8705"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "14. Darbhanga",
+      "assembly": "Alinagar",
+      "details": "Alinagar\r\n\r\nMLA- Maithili Thakur ( BJP )\r\nCaste - Brahmin\r\nVotes - 84915\r\n\r\nRunner Up- Binod Mishra ( RJD )\r\nCaste - Brahmin\r\nVotes - 73185\r\n\r\n2nd Runner Up- Saifuddin Ahmed ( IND )\r\nCaste - Minority\r\nVotes - 2803\r\n\r\n3rd Runner Up- Biplaw Kumar Choudhary ( JSP )\r\nCaste - Brahmin\r\nVotes - 2275"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "14. Darbhanga",
+      "assembly": "Bahadurpur",
+      "details": "Bahadurpur\r\n\r\nMLA- Madan Sahni ( JDU )\r\nCaste - Mallah\r\nVotes - 96300\r\n\r\nRunner Up- Bhola Yadav ( RJD )\r\nCaste - Yadav\r\nVotes - 84289\r\n\r\n2nd Runner Up- Ram Chatur Sahni ( IND )\r\nCaste - Mallah\r\nVotes - 6312\r\n\r\n3rd Runner Up- Mohammad Amir Haider ( JSP )\r\nCaste - Minority\r\nVotes - 5579"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "6. Madhubani",
+      "assembly": "Keoti",
+      "details": "Keoti\r\n\r\nMLA- Murari Mohan Jha ( BJP )\r\nCaste - Brahmin\r\nVotes - 89123\r\n\r\nRunner Up- Faraz Fatmi ( RJD )\r\nCaste - Muslim\r\nVotes - 81818\r\n\r\n2nd Runner Up- Mohammad Anisur Rahman ( AIMIM )\r\nCaste - Muslim\r\nVotes - 7474\r\n\r\n3rd Runner Up- Biltu Sahni ( JSP )\r\nCaste - Mallah\r\nVotes - 4816"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "23. Samastipur (SC)",
+      "assembly": "Hayaghat",
+      "details": "Hayaghat\n\nMLA- Ram Chandra Prasad ( BJP )\nCaste - Kushwaha\nVotes - 77222\n\nRunner Up- Shyam Bharti ( CPI M )\nCaste - Unknown\nVotes - 65383\n\n2nd Runner Up- Pratibha Singh ( JSP )\nCaste - Rajput\nVotes - 5759\n\n3rd Runner Up- Mohammad Mahtab Alam ( IND )\nCaste - Minority\nVotes - 3667"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "14. Darbhanga",
+      "assembly": "Darbhanga Rural",
+      "details": "Darbhanga Rural\r\n\r\nMLA- Rajesh Kumar Mandal ( JDU )\r\nCaste - Dhanuk\r\nVotes - 80624\r\n\r\nRunner Up- Lalit Kumar Yadav ( RJD )\r\nCaste - Yadav\r\nVotes - 62232\r\n\r\n2nd Runner Up- Md Jalaluddin Sahil ( AIMIM )\r\nCaste - Minority\r\nVotes - 17008\r\n\r\n3rd Runner Up- Shyam Paswan ( IND )\r\nCaste - Dusadh\r\nVotes - 4638\r\n\r\n4th Runner Up- Shoaib Ahmed Khan ( JSP )\r\nCaste - Minority\r\nVotes - 3814"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "6. Madhubani",
+      "assembly": "Jale",
+      "details": "Jale\r\n\r\nMLA- Jibesh Kumar ( BJP )\r\nCaste - Bhumihar\r\nVotes - 100496\r\n\r\nRunner Up- Rishi Mishra ( INC )\r\nCaste - Brahmin\r\nVotes - 78634\r\n\r\n2nd Runner Up- Ranjit Sharma ( JSP )\r\nCaste - Lohar\r\nVotes - 5150\r\n\r\n3rd Runner Up- Faishal Rahman ( AIMIM )\r\nCaste - Minority\r\nVotes - 4666"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "23. Samastipur (SC)",
+      "assembly": "Kusheshwar Asthan (SC)",
+      "details": "Kusheshwar Asthan (SC)\n\nMLA- Atirek Kumar ( JDU )\nCaste - SC\nVotes - 85685\n\nRunner Up- Ganesh Bharti ( IND )\nCaste - SC\nVotes - 49244\n\n2nd Runner Up- Shatrudhan Paswan ( JSP )\nCaste - Dusadh\nVotes - 6488\n\n3rd Runner Up- Satya Narayan Paswan ( MEP )\nCaste - Dusadh\nVotes - 5127"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "14. Darbhanga",
+      "assembly": "Benipur",
+      "details": "Benipur\r\n\r\nMLA- Binay Kumar Choudhary ( JDU )\r\nCaste - Brahmin\r\nVotes - 84207\r\n\r\nRunner Up- Mithilesh Kumar Choudhary ( INC )\r\nCaste - Brahmin\r\nVotes - 70604\r\n\r\n2nd Runner Up- Amresh Kumar Amar ( JSP )\r\nCaste - Unknown\r\nVotes - 6558\r\n\r\n3rd Runner Up- Chun Chun Jha ( IND )\r\nCaste - Brahmin\r\nVotes - 6532"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "14. Darbhanga",
+      "assembly": "Gaura Bauram",
+      "details": "Gaura Bauram\r\n\r\nMLA- Sujeet Kumar ( BJP )\r\nCaste - Rajput\r\nVotes - 77682\r\n\r\nRunner Up- Afzal Ali Khan ( RJD )\r\nCaste - Minority\r\nVotes - 72013\r\n\r\n2nd Runner Up- Shyam Sundar Chaudhary ( IND )\r\nCaste - Unknown\r\nVotes - 6549\r\n\r\n3rd Runner Up- Akhtar Shahansha ( AIMIM )\r\nCaste - Minority\r\nVotes - 3243\r\n\r\n4th Runner Up- Dr Md Iftekhar Alam ( JSP )\r\nCaste - Minority\r\nVotes - 2506"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "14. Darbhanga",
+      "assembly": "Darbhanga",
+      "details": "Darbhanga\r\n\r\nMLA- Sanjay Saraogi ( BJP )\r\nCaste - Marwari\r\nVotes - 97453\r\n\r\nRunner Up- Umesh Sahani ( VIP )\r\nCaste - Mallah\r\nVotes - 72860\r\n\r\n2nd Runner Up- Rakesh Kumar Mishra ( JSP )\r\nCaste - Brahmin\r\nVotes - 11758\r\n\r\n3rd Runner Up- Md Nafisul Haque ( IND )\r\nCaste - Minority\r\nVotes - 2314"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "6. Madhubani",
+      "assembly": "Harlakhi",
+      "details": "Harlakhi\r\n\r\nMLA- Sudhanshu Shekhar ( JDU )\r\nCaste - Kushwaha\r\nVotes - 85486\r\n\r\nRunner Up- Rakesh Kumar Pandey ( CPI )\r\nCaste - Bhumihar\r\nVotes - 49250\r\n\r\n2nd Runner Up- Md. Shabbir ( IND )\r\nCaste - Minority\r\nVotes - 22041\r\n\r\n3rd Runner Up- Ratneshwar Thakur ( JSP )\r\nCaste - Brahmin\r\nVotes - 7982"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "7. Jhanjharpur",
+      "assembly": "Jhanjharpur",
+      "details": "Jhanjharpur\n\nMLA- Nitish Mishra ( BJP )\nCaste - Brahmin\nVotes - 107958\n\nRunner Up- Ram Narayan Yadav (CPI)\nCaste - Yadav\nVotes - 53109\n\n2nd Runner Up- Keshavchandra Bhandari ( JSP )\nCaste - Kewat\nVotes - 11563\n\n3rd Runner Up- Krishna Kumar Sahu ( IND )\nCaste - Sahu\nVotes - 4513"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "7. Jhanjharpur",
+      "assembly": "Phulparas",
+      "details": "Phulparas\r\n\r\nMLA- Sheela Kumari ( JDU )\r\nCaste - Dhanuk\r\nVotes - 93677\r\n\r\nRunner Up- Subodh Mandal ( INC )\r\nCaste - Dhanuk\r\nVotes - 79578\r\n\r\n2nd Runner Up- Jalendra Mishra ( JSP )\r\nCaste - Brahmin\r\nVotes - 6274\r\n\r\n3rd Runner Up- Ram Kumar Yadav ( IND )\r\nCaste - Yadav\r\nVotes - 5553"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "6. Madhubani",
+      "assembly": "Madhubani",
+      "details": "Madhubani\r\n\r\nMLA- Madhav Anand ( RLM )\r\nCaste - Bhumihar\r\nVotes - 97956\r\n\r\nRunner Up- Samir Kumar Mahaseth ( RJD )\r\nCaste - Suri\r\nVotes - 77404\r\n\r\n2nd Runner Up- Rashid Khalil ( AIMIM )\r\nCaste - Minority\r\nVotes - 12971\r\n\r\n3rd Runner Up- Anil Kumar Mishra ( JSP )\r\nCaste - Brahmin\r\nVotes - 8453"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "7. Jhanjharpur",
+      "assembly": "Khajauli",
+      "details": "Khajauli\r\n\r\nMLA- Arun Shankar Prasad ( BJP )\r\nCaste - Suri\r\nVotes - 101151\r\n\r\nRunner Up- Braj Kishor Yadav ( RJD )\r\nCaste - Yadav\r\nVotes - 88025\r\n\r\n2nd Runner Up- Rupam Kumari ( JSP )\r\nCaste - Yadav\r\nVotes - 4637\r\n\r\n3rd Runner Up- Rakesh Kumar Raushan ( IND )\r\nCaste - Unknown\r\nVotes - 2670"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "6. Madhubani",
+      "assembly": "Benipatti",
+      "details": "Benipatti\r\n\r\nMLA- Vinod Narayan Jha ( BJP )\r\nCaste - Brahmin\r\nVotes - 87153\r\n\r\nRunner Up- Nalini Ranjan Jha Alias Rupan Jha ( INC )\r\nCaste - Brahmin\r\nVotes - 63221\r\n\r\n2nd Runner Up- Dr. B Jha Mrinal ( IND )\r\nCaste - Brahmin\r\nVotes - 10643\r\n\r\n3rd Runner Up- Parvez Alam ( JSP )\r\nCaste - Minority\r\nVotes - 4220"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "7. Jhanjharpur",
+      "assembly": "Rajnagar (SC)",
+      "details": "Rajnagar (SC)\r\n\r\nMLA- Sujeet Kumar ( BJP )\r\nCaste - Dusadh\r\nVotes - 108362\r\n\r\nRunner Up- Bishnu Deo Mochi ( RJD )\r\nCaste - Ravidas\r\nVotes - 66177\r\n\r\n2nd Runner Up- Surendra Kumar Das ( JSP )\r\nCaste - Dusadh\r\nVotes - 5669\r\n\r\n3rd Runner Up- Rampari Devi ( AJPP_1 )\r\nCaste - Unknown\r\nVotes - 3568"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "7. Jhanjharpur",
+      "assembly": "Laukaha",
+      "details": "Laukaha\r\n\r\nMLA- Satish Kumar Sah ( JDU )\r\nCaste - Kanu\r\nVotes - 111761\r\n\r\nRunner Up- Bharat Bhushan Mandal ( RJD )\r\nCaste - Dhanuk\r\nVotes - 86250\r\n\r\n2nd Runner Up- Ram Lakhan Yadav ( IND )\r\nCaste - Yadav\r\nVotes - 7652\r\n\r\n3rd Runner Up- Renu Yadav ( JSP )\r\nCaste - Dhanuk\r\nVotes - 4579"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "7. Jhanjharpur",
+      "assembly": "Babubarhi",
+      "details": "Babubarhi\r\n\r\nMLA- Mina Kumari ( JDU )\r\nCaste - Kewat\r\nVotes - 98221\r\n\r\nRunner Up- Arun Kumar Singh ( RJD )\r\nCaste - Kushwaha\r\nVotes - 80653\r\n\r\n2nd Runner Up- Alok Kumar Yadav ( JSP )\r\nCaste - Yadav\r\nVotes - 7740\r\n\r\n3rd Runner Up- Umesh Kumar Yadav ( IND )\r\nCaste - Yadav\r\nVotes - 5547"
+    },
+    {
+      "zone": "Mithilanchal",
+      "loksabha": "6. Madhubani",
+      "assembly": "Bisfi",
+      "details": "Bisfi\r\n\r\nMLA- Asif Ahmad (RJD)\r\nCaste - Minority\r\nVotes - 100771\r\n\r\nRunner Up- Haribhushan Thakur (BJP)\r\nCaste - Bhumihar\r\nVotes - 92664\r\n\r\n2nd Runner Up- Md Mohiuddin (IND)\r\nCaste - Minority\r\nVotes - 3772\r\n\r\n3rd Runner Up- Sanjay Kumar Mishra (JSP)\r\nCaste - Brahmin\r\nVotes - 3124\r\n"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "23. Samastipur (SC)",
+      "assembly": "Warisnagar",
+      "details": "Warisnagar\r\n\r\nMLA- Manjarik Mrinal (JDU)\r\nCaste - Kushwaha\r\nVotes - 108968\r\n\r\nRunner Up- Phoolbabu Singh (CPI-ML)\r\nCaste - Kushwaha\r\nVotes - 74532\r\n\r\n2nd Runner Up- Satyanarayan Sahani (JSP)\r\nCaste - Mallah\r\nVotes - 13081\r\n\r\n3rd Runner Up- Abhinav Raj (IND)\r\nCaste - Rajput\r\nVotes - 7255"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "23. Samastipur (SC)",
+      "assembly": "Kalyanpur (SC)",
+      "details": "Kalyanpur (SC)\r\n\r\nMLA- Maheshwar Hajari (JDU)\r\nCaste - Paswan\r\nVotes - 118162\r\n\r\nRunner Up- Ranjeet Kumar Ram (CPI-ML)\r\nCaste - Ravidas\r\nVotes - 79576\r\n\r\n2nd Runner Up- Ram Balak Paswan (JSP)\r\nCaste - Paswan\r\nVotes - 16574\r\n\r\n3rd Runner Up- Rajeev Kumar (IND)\r\nCaste - Unknown\r\nVotes - 5631\r\n"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "22. Ujiarpur",
+      "assembly": "Sarairanjan",
+      "details": "Sarairanjan\r\n\r\nMLA- Vijay Chaudhary (JDU)\r\nCaste - Bhumihar\r\nVotes - 102792\r\n\r\nRunner Up- Arbind Kumar Sahani (RJD)\r\nCaste - Mallah\r\nVotes - 81994\r\n\r\n2nd Runner Up- Kunal Kumar (IND)\r\nCaste - Unknown\r\nVotes - 6182\r\n\r\n3rd Runner Up- Sajan Kumar Mishra (JSP)\r\nCaste - Brahmin\r\nVotes - 5493\r\n"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "22. Ujiarpur",
+      "assembly": "Bibhutipur",
+      "details": "Bibhutipur\n\nMLA- Ajay Kumar (CPI-M)\nCaste - Kushwaha\nVotes - 79246\n\nRunner Up- Ravina Kushwaha (JDU)\nCaste - Kushwaha\nVotes - 68965\n\n2nd Runner Up- Rupanjali Kumari (IND)\nCaste - Unknown\nVotes - 14456\n\n3rd Runner Up- Vishwanath Choudhary (JSP)\nCaste - Choudhary\nVotes - 13450"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "22. Ujiarpur",
+      "assembly": "Ujiarpur",
+      "details": "Ujiarpur\r\n\r\nMLA- Alok Kumar Mehta (RJD)\r\nCaste - Kushwaha\r\nVotes - 102707\r\n\r\nRunner Up- Prashant Kumar Pankaj (RLM)\r\nCaste - Kushwaha\r\nVotes - 86424\r\n\r\n2nd Runner Up- Durga Prasad Singh (JSP)\r\nCaste - Kushwaha\r\nVotes - 9502\r\n\r\n3rd Runner Up- Upendra Kumar (IND)\r\nCaste - Unknown\r\nVotes - 6452"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "23. Samastipur (SC)",
+      "assembly": "Rosera (SC)",
+      "details": "Rosera (SC)\r\n\r\nMLA- Birendra Kumar (BJP)\r\nCaste - Paswan\r\nVotes - 122773\r\n\r\nRunner Up- Braj Kishore Ravi (INC)\r\nCaste - Ravidas\r\nVotes - 72240\r\n\r\n2nd Runner Up- Rohit Kumar (JSP)\r\nCaste - Paswan\r\nVotes - 14913\r\n\r\n3rd Runner Up- Rajesh Kumar Paswan (IND)\r\nCaste - Paswan\r\nVotes - 3885"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "23. Samastipur (SC)",
+      "assembly": "Samastipur",
+      "details": "Samastipur\r\n\r\nMLA- Ashwamedh Devi (JDU)\r\nCaste - Kushwaha\r\nVotes - 95728\r\n\r\nRunner Up- Akhtarul Islam Shahin (RJD)\r\nCaste - Unknown\r\nVotes - 81853\r\n\r\n2nd Runner Up- Chetna Jhamb (IND)\r\nCaste - Unknown\r\nVotes - 6193\r\n\r\n3rd Runner Up- Manoj Kumar Singh (JSP)\r\nCaste - Kushwaha\r\nVotes - 4938"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "25. Khagaria",
+      "assembly": "Hasanpur",
+      "details": "Hasanpur\r\n\r\nMLA- Raj Kumar Ray (JDU)\r\nCaste - Yadav\r\nVotes - 90961\r\n\r\nRunner Up- Mala Pushpam (RJD)\r\nCaste - Yadav\r\nVotes - 83047\r\n\r\n2nd Runner Up- Indu Devi (JSP)\r\nCaste - Teli\r\nVotes - 9553\r\n\r\n3rd Runner Up- Manoj Mukhiya (IND)\r\nCaste - Mukhiya\r\nVotes - 4673"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "22. Ujiarpur",
+      "assembly": "Morwa",
+      "details": "Morwa\r\n\r\nMLA- Ranvijay Sahu (RJD)\r\nCaste - Kanu\r\nVotes - 77770\r\n\r\nRunner Up- Vidya Sagar Singh Nishad (JDU)\r\nCaste - Mallah\r\nVotes - 69099\r\n\r\n2nd Runner Up- Abhay Kumar Singh (IND)\r\nCaste - Unknown\r\nVotes - 30046\r\n\r\n3rd Runner Up- Jagriti (JSP)\r\nCaste - Nai\r\nVotes - 4131"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "22. Ujiarpur",
+      "assembly": "Mohiuddinnagar",
+      "details": "Mohiuddinnagar\r\n\r\nMLA- Rajesh Kumar Singh (BJP)\r\nCaste - Rajput\r\nVotes - 89208\r\n\r\nRunner Up- Ejya Yadav (RJD)\r\nCaste - Yadav\r\nVotes - 77526\r\n\r\n2nd Runner Up- Raj Kapoor Singh (JSP)\r\nCaste - Rajput\r\nVotes - 4414\r\n\r\n3rd Runner Up- Vishwanath Sah (IND)\r\nCaste - Unknown\r\nVotes - 2230"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "21. Hajipur (SC)",
+      "assembly": "Mahnar",
+      "details": "Mahnar\n\nMLA- Umesh Singh Kushwaha (JDU)\nCaste - Kushwaha\nVotes - 98050\n\nRunner Up- Ravindra Kumar Singh (RJD)\nCaste - Rajput\nVotes - 59492\n\n2nd Runner Up- Sanjay Kumar Ray (IND)\nCaste - Unknown\nVotes - 14153\n\n3rd Runner Up- Dr. Rajesh Kumar (JSP)\nCaste - Barai\nVotes - 4512"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "16. Vaishali",
+      "assembly": "Vaishali",
+      "details": "Vaishali\r\n\r\nMLA- Siddharth Patel (JDU)\r\nCaste - Kurmi\r\nVotes - 108377\r\n\r\nRunner Up- Ajay Kumar Kushwaha (RJD)\r\nCaste - Kushwaha\r\nVotes - 75787\r\n\r\n2nd Runner Up- Sanjeev Singh (INC)\r\nCaste - Bhumihar\r\nVotes - 20395\r\n\r\n3rd Runner Up- Sunil Kumar (JSP)\r\nCaste - Bhumihar\r\nVotes - 9108"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "21. Hajipur (SC)",
+      "assembly": "Raghopur",
+      "details": "Raghopur\r\n\r\nMLA- Tejashwi Prasad Yadav (RJD)\r\nCaste - Yadav\r\nVotes - 118597\r\n\r\nRunner Up- Satish Kumar (BJP)\r\nCaste - Rajput\r\nVotes - 104065\r\n\r\n2nd Runner Up- Baliram Singh (IND)\r\nCaste - Rajput\r\nVotes - 3086\r\n\r\n3rd Runner Up- Chanchal Kumar (JSP)\r\nCaste - Unknown\r\nVotes - 2399"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "21. Hajipur (SC)",
+      "assembly": "Raja Pakar (SC)",
+      "details": "Raja Pakar (SC)\r\n\r\nMLA- Mahendra Ram (JDU)\r\nCaste - Ravidas\r\nVotes - 96258\r\n\r\nRunner Up- Pratima Kumari (INC)\r\nCaste - Ravidas\r\nVotes - 48069\r\n\r\n2nd Runner Up- Mohit Paswan (CPI)\r\nCaste - Paswan\r\nVotes - 12990\r\n\r\n3rd Runner Up- Ajay Kumar Paswan (IND)\r\nCaste - Paswan\r\nVotes - 5748\r\n\r\n4th Runner Up- Mukesh Kumar (JSP)\r\nCaste - Unknown\r\nVotes - 4701"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "22. Ujiarpur",
+      "assembly": "Patepur (SC)",
+      "details": "Patepur (SC)\r\n\r\nMLA- Lakhendra Kumar Raushan (BJP)\r\nCaste - Dusadh\r\nVotes - 108356\r\n\r\nRunner Up- Prema Chaudhary (RJD)\r\nCaste - Pasi\r\nVotes - 85976\r\n\r\n2nd Runner Up- Dasai Chaudhary (JSP)\r\nCaste - Dhobi\r\nVotes - 4181\r\n\r\n3rd Runner Up- Sanjay Paswan (IND)\r\nCaste - Paswan\r\nVotes - 3423"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "21. Hajipur (SC)",
+      "assembly": "Lalganj",
+      "details": "Lalganj\r\n\r\nMLA- Sanjay Kumar Singh (BJP)\r\nCaste - Rajput\r\nVotes - 127650\r\n\r\nRunner Up- Shivani Shukla (RJD)\r\nCaste - Bhumihar\r\nVotes - 95483\r\n\r\n2nd Runner Up- Dhirendra Kumar Mahto (IND)\r\nCaste - Mahto\r\nVotes - 4441\r\n\r\n3rd Runner Up- Amar Kumar Singh (JSP)\r\nCaste - Kurmi\r\nVotes - 4215"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "21. Hajipur (SC)",
+      "assembly": "Hajipur",
+      "details": "Hajipur\r\n\r\nMLA- Awadhesh Singh (BJP)\r\nCaste - Kurmi\r\nVotes - 113221\r\n\r\nRunner Up- Deo Kumar Chaurasia (RJD)\r\nCaste - Barai\r\nVotes - 94712\r\n\r\n2nd Runner Up- Pratibha Sinha (JSP)\r\nCaste - Bhumihar\r\nVotes - 4701\r\n\r\n3rd Runner Up- Sunil Roy (IND)\r\nCaste - Roy\r\nVotes - 2226"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "21. Hajipur (SC)",
+      "assembly": "Mahua",
+      "details": "Mahua\r\n\r\nMLA- Sanjay Kumar Singh (LJP-R)\r\nCaste - Rajput\r\nVotes - 87641\r\n\r\nRunner Up- Mukesh Kumar Raushan (RJD)\r\nCaste - Yadav\r\nVotes - 42644\r\n\r\n2nd Runner Up- Tej Pratap Yadav (JJD)\r\nCaste - Yadav\r\nVotes - 35703\r\n\r\n3rd Runner Up- Amit Kumar (AIMIM)\r\nCaste - Unknown\r\nVotes - 15783\r\n\r\n7th Runner Up- Indrajeet Pradhan (JSP)\r\nCaste - Pradhan\r\nVotes - 2386"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "3. Purvi Champaran",
+      "assembly": "Harsidhi (SC)",
+      "details": "Harsidhi (SC)\r\n\r\nMLA- Krishnanandan Paswan ( BJP )\r\nCaste - Dusadh\r\nVotes - 96864\r\n\r\nRunner Up- Rajendra Kumar ( RJD )\r\nCaste - Ravidas\r\nVotes - 89769\r\n\r\n2nd Runner Up- Awadhesh Kumar ( JSP )\r\nCaste - Unknown\r\nVotes - 9568\r\n\r\n3rd Runner Up- Anil Jha ( IND )\r\nCaste - Brahmin\r\nVotes - 3240"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "4. Sheohar",
+      "assembly": "Madhuban",
+      "details": "Madhuban\r\n\r\nMLA- Rana Randhir ( BJP )\r\nCaste - Rajput\r\nVotes - 86002\r\n\r\nRunner Up- Sandhya Rani ( RJD )\r\nCaste - Kushwaha\r\nVotes - 80510\r\n\r\n2nd Runner Up- Vijay Kumar Kushwaha ( JSP )\r\nCaste - Kushwaha\r\nVotes - 5383\r\n\r\n3rd Runner Up- Shashi Ranjan Kumar Alias Sonu Singh ( IND )\r\nCaste - Unknown\r\nVotes - 2647"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "2. Paschim Champaran",
+      "assembly": "Raxaul",
+      "details": "Raxaul\r\n\r\nMLA- Pramod Kumar Sinha ( BJP )\r\nCaste - Kushwaha\r\nVotes - 106765\r\n\r\nRunner Up- Shyam Bihari Prasad ( INC )\r\nCaste - Kalwar\r\nVotes - 88887\r\n\r\n2nd Runner Up- Kapil Dev Prasad ( JSP )\r\nCaste - Kushwaha\r\nVotes - 14656\r\n\r\n3rd Runner Up- Dhurendra Kumar ( IND )\r\nCaste - Unknown\r\nVotes - 1460"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "3. Purvi Champaran",
+      "assembly": "Motihari",
+      "details": "Motihari\r\n\r\nMLA- Pramod Kumar ( BJP )\r\nCaste - Kanu\r\nVotes - 106080\r\n\r\nRunner Up- Dewa Gupta ( RJD )\r\nCaste - Kalwar\r\nVotes - 92517\r\n\r\n2nd Runner Up- Atul Kumar ( JSP )\r\nCaste - Unknown\r\nVotes - 6592\r\n\r\n3rd Runner Up- Divyanshu Bhardwaj ( IND )\r\nCaste - Unknown\r\nVotes - 2082"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "3. Purvi Champaran",
+      "assembly": "Kalyanpur (EC)",
+      "details": "Kalyanpur (EC)\r\n\r\nMLA- Sachindra Prasad Singh (BJP)\r\nCaste - Bhumihar\r\nVotes - 89057\r\n\r\nRunner Up- Manoj Kumar Yadav (RJD)\r\nCaste - Yadav\r\nVotes - 73489\r\n\r\n2nd Runner Up- Mantosh Kumar Sahni (JSP)\r\nCaste - Sahni\r\nVotes - 5206\r\n\r\n3rd Runner Up- Md Badiuzzaman (BSP)\r\nCaste - Muslim\r\nVotes - 4490"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "3. Purvi Champaran",
+      "assembly": "Pipra (EC)",
+      "details": "Pipra (EC)\n\nMLA- Shyam Babu Prasad Yadav (BJP)\nCaste - Yadav\nVotes - 110422\n\nRunner Up- Rajmangal Prasad (CPI M)\nCaste - Kushwaha\nVotes - 99677\n\n2nd Runner Up- Subodh Kumar (JSP)\nCaste - Yadav\nVotes - 9487\n\n3rd Runner Up- Rajmangal Prasad (IND)\nCaste - Unknown\nVotes - 4872"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "3. Purvi Champaran",
+      "assembly": "Kesaria",
+      "details": "Kesaria\r\n\r\nMLA- Shalini Mishra (JDU)\r\nCaste - Bhumihar\r\nVotes - 78192\r\n\r\nRunner Up- Varun Vijay (VIP)\r\nCaste - Rajput\r\nVotes - 61852\r\n\r\n2nd Runner Up- Naj Ahamad Khan (JSP)\r\nCaste - Muslim\r\nVotes - 11206\r\n\r\n3rd Runner Up- Sunil Kumar (IND)\r\nCaste - Unknown\r\nVotes - 4567"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "4. Sheohar",
+      "assembly": "Dhaka",
+      "details": "Dhaka\r\n\r\nMLA- Faisal Rahman (RJD)\r\nCaste - Muslim\r\nVotes - 112727\r\n\r\nRunner Up- Pawan Kumar Jaiswal (BJP)\r\nCaste - Kalwar\r\nVotes - 112549\r\n\r\n2nd Runner Up- Doctor L. B. Prasad (JSP)\r\nCaste - Unknown\r\nVotes - 8347\r\n\r\n3rd Runner Up- Rana Ranjit\r\nCaste - Unknown\r\nVotes - 5730"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "2. Paschim Champaran",
+      "assembly": "Sugauli",
+      "details": "Sugauli\r\n\r\nMLA- Rajesh Kumar Alias Bablu Gupta (LJP-R)\r\nCaste - Baniya\r\nVotes - 98875\r\n\r\nRunner Up- Shyam Kishor Chaudhary (JJD)\r\nCaste - Mallah\r\nVotes - 40684\r\n\r\n2nd Runner Up- Zulfiquar Aftab (BSP)\r\nCaste - Muslim\r\nVotes - 25036\r\n\r\n3rd Runner Up- Ajay Kumar Jha (JSP)\r\nCaste - Brahmin\r\nVotes - 24718"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "4. Sheohar",
+      "assembly": "Chiraia",
+      "details": "Chiraia\r\n\r\nMLA- Lal Babu Prasad Gupta (BJP)\r\nCaste - Teli\r\nVotes - 90572\r\n\r\nRunner Up- Lakshmi Narayan Prasad Yadav (RJD)\r\nCaste - Yadav\r\nVotes - 51212\r\n\r\n2nd Runner Up- Achchhelal Prasad (IND)\r\nCaste - Yadav\r\nVotes - 34874\r\n\r\n3rd Runner Up- Sanjay Kumar (JSP)\r\nCaste - Unknown\r\nVotes - 15590"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "3. Purvi Champaran",
+      "assembly": "Govindganj",
+      "details": "Govindganj\r\n\r\nMLA- Raju Tiwari (LJP-R)\r\nCaste - Brahmin\r\nVotes - 96034\r\n\r\nRunner Up- Shashi Bhushan Rai Alias Gappu Rai (INC)\r\nCaste - Bhumihar\r\nVotes - 63351\r\n\r\n2nd Runner Up- Krishna Kant Mishra (JSP)\r\nCaste - Brahmin\r\nVotes - 9830\r\n\r\n3rd Runner Up- Nitesh Kumar Shrivastava (TPLRSP)\r\nCaste - Kayastha\r\nVotes - 3770"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "2. Paschim Champaran",
+      "assembly": "Narkatia",
+      "details": "Narkatia\r\n\r\nMLA- Vishal Kumar (JDU)\r\nCaste - Teli\r\nVotes - 104450\r\n\r\nRunner Up- Shamim Ahmad (RJD)\r\nCaste - Muslim\r\nVotes - 103007\r\n\r\n2nd Runner Up- Lal Babu Prasad (JSP)\r\nCaste - Unknown\r\nVotes - 7002\r\n\r\n3rd Runner Up- Md Harun Rashid (IND)\r\nCaste - Muslim\r\nVotes - 1937"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "1. Valmiki Nagar",
+      "assembly": "Narkatiaganj",
+      "details": "Narkatiaganj\r\n\r\nMLA- Sanjay Kumar Pandey (BJP)\r\nCaste - Brahmin\r\nVotes - 100044\r\n\r\nRunner Up- Deepak Yadav (RJD)\r\nCaste - Yadav\r\nVotes - 73586\r\n\r\n2nd Runner Up- Shashwat Kedar (INC)\r\nCaste - Brahmin\r\nVotes - 5388\r\n\r\n3rd Runner Up- Md. Wasiullah (JSP)\r\nCaste - Muslim\r\nVotes - 4238"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "1. Valmiki Nagar",
+      "assembly": "Sikta",
+      "details": "Sikta\r\n\r\nMLA- Sammridh Varma (JDU)\r\nCaste - Kayastha\r\nVotes - 97173\r\n\r\nRunner Up- Khurshid Firoz Ahmad (IND)\r\nCaste - Muslim\r\nVotes - 50029\r\n\r\n2nd Runner Up- Birendra Prasad Gupta (CPI(ML))\r\nCaste - Teli\r\nVotes - 37431\r\n\r\n3rd Runner Up- Utkarsh Srivastava (JSP)\r\nCaste - Kayastha\r\nVotes - 8181"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "1. Valmiki Nagar",
+      "assembly": "Lauriya",
+      "details": "Lauriya\r\n\r\nMLA- Vinay Bihari (BJP)\r\nCaste - Rajput\r\nVotes - 96510\r\n\r\nRunner Up- Ran Kaushal Pratap Singh (VIP)\r\nCaste - Kurmi\r\nVotes - 69544\r\n\r\n2nd Runner Up- Sunil Kumar (JSP)\r\nCaste - Unknown\r\nVotes - 15722\r\n\r\n3rd Runner Up- Pappu Kumar Thakur (TPLRSP)\r\nCaste - Thakur\r\nVotes - 4035"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "2. Paschim Champaran",
+      "assembly": "Nautan",
+      "details": "Nautan\r\n\r\nMLA- Narayan Prasad (BJP)\r\nCaste - Teli\r\nVotes - 101952\r\n\r\nRunner Up- Amit Kumar (INC)\r\nCaste - Giri-Brahmin\r\nVotes - 79880\r\n\r\n2nd Runner Up- Santosh Chaudhari (JSP)\r\nCaste - Chaudhari\r\nVotes - 12082\r\n\r\n3rd Runner Up- Virendra Rao (BSP)\r\nCaste - Rao\r\nVotes - 2714"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "1. Valmiki Nagar",
+      "assembly": "Bagaha",
+      "details": "Bagaha\n\nMLA- Ram Singh (BJP)\nCaste - Chauhan\nVotes - 106875\n\nRunner Up- Jayesh Mangalam Singh (INC)\nCaste - Rajput\nVotes - 100562\n\n2nd Runner Up- Nandesh Pandey Urf Chunnu Pandey (JSP)\nCaste - Brahmin\nVotes - 5799\n\n3rd Runner Up- Dinesh Agrawal (IND)\nCaste - Bania\nVotes - 4239"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "2. Paschim Champaran",
+      "assembly": "Bettiah",
+      "details": "Bettiah\r\n\r\nMLA- Renu Devi (BJP)\r\nCaste - Nonia\r\nVotes - 91907\r\n\r\nRunner Up- Washi Ahmad (INC)\r\nCaste - Muslim\r\nVotes - 69534\r\n\r\n2nd Runner Up- Rohit Kumar Sikaria (IND)\r\nCaste - Marwari-Bania\r\nVotes - 24665\r\n\r\n3rd Runner Up- Anil Kumar Singh (JSP)\r\nCaste - Rajput\r\nVotes - 6297"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "2. Paschim Champaran",
+      "assembly": "Chanpatia",
+      "details": "Chanpatia\r\n\r\nMLA- Abhishek Ranjan (INC)\r\nCaste - Kanu\r\nVotes - 87538\r\n\r\nRunner Up- Umakant Singh (BJP)\r\nCaste - Bhumihar\r\nVotes - 86936\r\n\r\n2nd Runner Up- Tripurari Kumar Tiwari Alias Manish Kashyap (JSP)\r\nCaste - Brahmin\r\nVotes - 37172\r\n\r\n3rd Runner Up- Bipin Tiwari Alias Bipin Nath Tiwari (LAJSP)\r\nCaste - Brahmin\r\nVotes - 2108"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "1. Valmiki Nagar",
+      "assembly": "Valmiki Nagar",
+      "details": "Valmiki Nagar\r\n\r\nMLA- Surendra Prasad (INC)\r\nCaste - Kushwaha\r\nVotes - 107730\r\n\r\nRunner Up- Dhirendra Pratap Singh Alias Rinku Singh (JDU)\r\nCaste - Rajput\r\nVotes - 106055\r\n\r\n2nd Runner Up- Rameshwar Yadav (BSP)\r\nCaste - Yadav\r\nVotes - 5312\r\n\r\n4th Runner Up- Mahmad Jalil (IND)\r\nCaste - Muslim\r\nVotes - 2426"
+    },
+    {
+      "zone": "Champaran",
+      "loksabha": "1. Valmiki Nagar",
+      "assembly": "Ramnagar (SC)",
+      "details": "Ramnagar (SC)\r\n\r\nMLA- Nand Kishor Ram (BJP)\r\nCaste - Ravidas\r\nVotes - 115214\r\n\r\nRunner Up- Subodh Kumar (RJD)\r\nCaste - Dusadh\r\nVotes - 79534\r\n\r\n2nd Runner Up- Pappu Kumar Ranjan (JSP)\r\nCaste - Unknown\r\nVotes - 6992\r\n\r\n3rd Runner Up- Aaditya Kumar (BSP)\r\nCaste - Unknown\r\nVotes - 2663"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "19. Maharajganj",
+      "assembly": "Baniapur",
+      "details": "Baniapur\r\n\r\nMLA- Kedar Nath Singh (BJP)\r\nCaste - Rajput\r\nVotes - 95606\r\n\r\nRunner Up- Chandni Devi (RJD)\r\nCaste - Rajput\r\nVotes - 80170\r\n\r\n2nd Runner Up- Shravan Kumar (JSP)\r\nCaste - Unknown\r\nVotes - 8638\r\n\r\n3rd Runner Up- Shyam Kumar Singh (IND)\r\nCaste - Rajput\r\nVotes - 3831"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "19. Maharajganj",
+      "assembly": "Taraiya",
+      "details": "Taraiya\r\n\r\nMLA- Janak Singh (BJP)\r\nCaste - Rajput\r\nVotes - 85564\r\n\r\nRunner Up- Shailendra Pratap (RJD)\r\nCaste - Rajput\r\nVotes - 84235\r\n\r\n2nd Runner Up- Satyendra Kumar Sahni (JSP)\r\nCaste - Mallah\r\nVotes - 5086\r\n\r\n3rd Runner Up- Mumtaj Ansari (IND)\r\nCaste - Muslim\r\nVotes - 2748"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "20. Saran",
+      "assembly": "Sonepur",
+      "details": "Sonepur\r\n\r\nMLA- Vinay Kumar Singh (BJP)\r\nCaste - Rajput\r\nVotes - 90842\r\n\r\nRunner Up- Dr. Ramanuj Prasad (RJD)\r\nCaste - Yadav\r\nVotes - 86075\r\n\r\n2nd Runner Up- Chandan Lal Mehta (JSP)\r\nCaste - Kushwaha\r\nVotes - 11977\r\n\r\n3rd Runner Up- Ramesh Kumar (IND)\r\nCaste - Unknown\r\nVotes - 3156"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "19. Maharajganj",
+      "assembly": "Ekma",
+      "details": "Ekma\r\n\r\nMLA- Manoranjan Singh (JDU)\r\nCaste - Bhumihar\r\nVotes - 84077\r\n\r\nRunner Up- Srikant Yadav (RJD)\r\nCaste - Yadav\r\nVotes - 61369\r\n\r\n2nd Runner Up- Deo Kumar Singh (JSP)\r\nCaste - Rajput\r\nVotes - 7642\r\n\r\n3rd Runner Up- Lakshman Manjhi (BSP)\r\nCaste - Manjhi\r\nVotes - 2992"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "19. Maharajganj",
+      "assembly": "Manjhi",
+      "details": "Manjhi\r\n\r\nMLA- Randhir Kumar Singh (JDU)\r\nCaste - Rajput\r\nVotes - 68455\r\n\r\nRunner Up- Dr. Satyendra Yadav (CPI(M))\r\nCaste - Yadav\r\nVotes - 58668\r\n\r\n2nd Runner Up- Rana Pratap Singh (IND)\r\nCaste - Rajput\r\nVotes - 19139\r\n\r\n3rd Runner Up- Y.V. Giri (JSP)\r\nCaste - Unknown\r\nVotes - 9306"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "20. Saran",
+      "assembly": "Chapra",
+      "details": "Chapra\r\n\r\nMLA- Chhoti Kumari (BJP)\r\nCaste - Teli\r\nVotes - 86845\r\n\r\nRunner Up- Shatrughan Yadav (RJD)\r\nCaste - Yadav\r\nVotes - 79245\r\n\r\n2nd Runner Up- Rakhi Gupta (IND)\r\nCaste - Sonar\r\nVotes - 11488\r\n\r\n3rd Runner Up- Jai Prakash Singh (JSP)\r\nCaste - Rajput\r\nVotes - 3433"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "20. Saran",
+      "assembly": "Amnour",
+      "details": "Amnour\r\n\r\nMLA- Krishan Kumar Mantoo (BJP)\r\nCaste - Kurmi\r\nVotes - 75525\r\n\r\nRunner Up- Sunil Kumar (RJD)\r\nCaste - Yadav\r\nVotes - 71717\r\n\r\n2nd Runner Up- Rahul Kumar Singh (JSP)\r\nCaste - Rajput\r\nVotes - 6031\r\n\r\n3rd Runner Up- Puja Kumari (BSP)\r\nCaste - Unknown\r\nVotes - 5695"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "20. Saran",
+      "assembly": "Garkha (SC)",
+      "details": "Garkha (SC)\r\n\r\nMLA- Surendra Ram (RJD)\r\nCaste - Ravidas\r\nVotes - 91134\r\n\r\nRunner Up- Simant Mrinal (LJP-R)\r\nCaste - Paswan\r\nVotes - 78330\r\n\r\n2nd Runner Up- Muneshwar Chaudhary (IND)\r\nCaste - Pasi\r\nVotes - 9453\r\n\r\n3rd Runner Up- Manohar Kumar Ram (JSP)\r\nCaste - Ravidas\r\nVotes - 5314"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "20. Saran",
+      "assembly": "Parsa",
+      "details": "Parsa\r\n\r\nMLA- Karishma (RJD)\r\nCaste - Yadav\r\nVotes - 89093\r\n\r\nRunner Up- Chhote Lal Rai (JDU)\r\nCaste - Yadav\r\nVotes - 63321\r\n\r\n2nd Runner Up- Mosaheb Mahto (JSP)\r\nCaste - Koeri/Kushwaha\r\nVotes - 10126\r\n\r\n3rd Runner Up- Shriniwas Sah (IND)\r\nCaste - Teli\r\nVotes - 3211"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "20. Saran",
+      "assembly": "Marhaura",
+      "details": "Marhaura\r\n\r\nMLA- Jitendra Kumar Rai (RJD)\r\nCaste - Yadav\r\nVotes - 86118\r\n\r\nRunner Up- Naveen Kumar Singh Urf Abhay Singh (JSP)\r\nCaste - Rajput\r\nVotes - 58190\r\n\r\n2nd Runner Up- Ankit Kumar (IND)\r\nCaste - Kanu\r\nVotes - 17310\r\n\r\n3rd Runner Up- Sandev Kumar Ray (IND)\r\nCaste - Mallah\r\nVotes - 3483"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "18. Siwan",
+      "assembly": "Raghunathpur",
+      "details": "Raghunathpur\r\n\r\nMLA- Osama Shahab (RJD)\r\nCaste - Muslim\r\nVotes - 88278\r\n\r\nRunner Up- Vikash Kumar Singh (JDU)\r\nCaste - Rajput\r\nVotes - 79030\r\n\r\n2nd Runner Up- Rahul Kirti (JSP)\r\nCaste - Unknown\r\nVotes - 3071\r\n\r\n3rd Runner Up- Upendra Singh (IND)\r\nCaste - Rajput\r\nVotes - 2909"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "19. Maharajganj",
+      "assembly": "Maharajganj",
+      "details": "Maharajganj\r\n\r\nMLA- Hem Narayan Sah (JDU)\r\nCaste - Teli\r\nVotes - 86813\r\n\r\nRunner Up- Vishal Kumar Jaiswal (RJD)\r\nCaste - Kalwar\r\nVotes - 65714\r\n\r\n2nd Runner Up- Sunil Ray (JSP)\r\nCaste - Unknown\r\nVotes - 8165\r\n\r\n3rd Runner Up- Nitish Kumar Diwedi (IND)\r\nCaste - Unknown\r\nVotes - 6254"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "18. Siwan",
+      "assembly": "Barharia",
+      "details": "Barharia\r\n\r\nMLA- Indradev Singh (JDU)\r\nCaste - Kurmi\r\nVotes - 93600\r\n\r\nRunner Up- Arun Kumar Gupta (RJD)\r\nCaste - Baniya\r\nVotes - 81464\r\n\r\n2nd Runner Up- Shyam Bahadur Singh (IND)\r\nCaste - Kurmi\r\nVotes - 4692\r\n\r\n3rd Runner Up- Shekh Shahnawaz Alam (JSP)\r\nCaste - Unknown\r\nVotes - 3750"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "18. Siwan",
+      "assembly": "Ziradei",
+      "details": "Ziradei\r\n\r\nMLA- Bhism Pratap Singh (JDU)\r\nCaste - Kushwaha\r\nVotes - 66227\r\n\r\nRunner Up- Amarjeet Kushwaha (CPI(ML)(L))\r\nCaste - Kushwaha\r\nVotes - 63601\r\n\r\n2nd Runner Up- Munna Pandey (JSP)\r\nCaste - Brahmin\r\nVotes - 10125\r\n\r\n3rd Runner Up- Pramod Kumar Mall (BSP)\r\nCaste - Mallah\r\nVotes - 5102"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "18. Siwan",
+      "assembly": "Siwan",
+      "details": "Siwan\r\n\r\nMLA- Mangal Pandey (BJP)\r\nCaste - Brahmin\r\nVotes - 92379\r\n\r\nRunner Up- Awadh Bihari Choudhary (RJD)\r\nCaste - Yadav\r\nVotes - 83009\r\n\r\n2nd Runner Up- Mohammad Kaifi Samshir (AIMIM)\r\nCaste - Muslim\r\nVotes - 3493\r\n\r\n3rd Runner Up- Intekhab Ahmad (JSP)\r\nCaste - Muslim\r\nVotes - 2543"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "18. Siwan",
+      "assembly": "Darauli (SC)",
+      "details": "Darauli (SC)\n\nMLA- Vishnu Deo Paswan (LJP-R)\nCaste - Dusadh\nVotes - 83014\n\nRunner Up- Satyadeo Ram (CPI-ML)\nCaste - Ravidas\nVotes - 73442\n\n2nd Runner Up- Ganesh Ram (JSP)\nCaste - Unknown\nVotes - 4630\n\n3rd Runner Up- Manoj Ram (SBSP)\nCaste - Unknown\nVotes - 3908"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "18. Siwan",
+      "assembly": "Daraundha",
+      "details": "Daraundha\n\nMLA- Karnjeet Singh Alias Vyas Singh (BJP)\nCaste - Rajput\nVotes - 87047\n\nRunner Up- Amarnath Yadav (CPI-ML)\nCaste - Yadav\nVotes - 68680\n\n2nd Runner Up- Gudiya Devi (IND)\nCaste - Bhumihar\nVotes - 11133\n\n3rd Runner Up- Satyandra Yadav (JSP)\nCaste - Yadav\nVotes - 6731"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "19. Maharajganj",
+      "assembly": "Goriyakothi",
+      "details": "Goriyakothi\r\n\r\nMLA- Devesh Kant Singh (BJP)\r\nCaste - Bhumihar\r\nVotes - 105909\r\n\r\nRunner Up- Anwarul Haque (RJD)\r\nCaste - Muslim\r\nVotes - 93524\r\n\r\n2nd Runner Up- Ashok Kumar Varma (IND)\r\nCaste - Unknown\r\nVotes - 2797\r\n\r\n3rd Runner Up- Ejaz Ahmad Siddique (JSP)\r\nCaste - Muslim\r\nVotes - 3281"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "17. Gopalganj (SC)",
+      "assembly": "Baikunthpur",
+      "details": "Baikunthpur\r\n\r\nMLA- Mithilesh Tiwari (BJP)\r\nCaste - Brahmin\r\nVotes - 104133\r\n\r\nRunner Up- Prem Shankar Prasad (RJD)\r\nCaste - Yadav\r\nVotes - 87180\r\n\r\n2nd Runner Up- Ajay Prasad (JSP)\r\nCaste - Unknown\r\nVotes - 7335\r\n\r\n3rd Runner Up- Pradeep Kumar (BSP)\r\nCaste - Unknown\r\nVotes - 4142"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "17. Gopalganj (SC)",
+      "assembly": "Hathua",
+      "details": "Hathua\r\n\r\nMLA- Ramsewak Singh (JDU)\r\nCaste - Kushwaha\r\nVotes - 92121\r\n\r\nRunner Up- Rajesh Kumar Singh (RJD)\r\nCaste - Kushwaha\r\nVotes - 79773\r\n\r\n2nd Runner Up- Sanjay Kumar Suman (JSP)\r\nCaste - Unknown\r\nVotes - 5089\r\n\r\n3rd Runner Up- Shabnam Khatun (BSP)\r\nCaste - Muslim\r\nVotes - 3789"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "17. Gopalganj (SC)",
+      "assembly": "Kuchaikote",
+      "details": "Kuchaikote\n\nMLA- Amrendra Kumar Pandey (JDU)\nCaste - Brahmin\nVotes - 101425\n\nRunner Up- Hari Narayan Singh (INC)\nCaste - Kushwaha\nVotes - 76934\n\n2nd Runner Up- Vijay Kumar Choubey (JSP)\nCaste - Brahmin\nVotes - 6077\n\n3rd Runner Up- Baliram Singh (BSP)\nCaste - Unknown\nVotes - 5542"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "17. Gopalganj (SC)",
+      "assembly": "Barauli",
+      "details": "Barauli\n\nMLA- Manjeet Kumar Singh (JDU)\nCaste - Rajput\nVotes - 88657\n\nRunner Up- Dilip Kumar Singh (RJD)\nCaste - Rajput\nVotes - 76283\n\n2nd Runner Up- Reyazul Haque Urf Raju (BSP)\nCaste - Muslim\nVotes - 13397\n\n3rd Runner Up- Sonu Kumar (IND)\nCaste - Unknown\nVotes - 4804"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "17. Gopalganj (SC)",
+      "assembly": "Bhore (SC)",
+      "details": "Bhore (SC)\n\nMLA- Sunil Kumar (JDU)\nCaste - Ravidas\nVotes - 101469\n\nRunner Up- Dhananjay (CPI(ML)(L))\nCaste - Paswan\nVotes - 85306\n\n2nd Runner Up- Priti Kinnar (JSP)\nCaste - Kinnar\nVotes - 8602\n\n3rd Runner Up- Surendra Kumar Ram (BSP)\nCaste - Ravidas\nVotes - 6132"
+    },
+    {
+      "zone": "Saran",
+      "loksabha": "17. Gopalganj (SC)",
+      "assembly": "Gopalganj",
+      "details": "Gopalganj\n\nMLA- Subhash Singh (BJP)\nCaste - Rajput\nVotes - 96892\n\nRunner Up- Om Prakash Garg (INC)\nCaste - Brahmin\nVotes - 67920\n\n2nd Runner Up- Anash Salam (AIMIM)\nCaste - Muslim\nVotes - 14225\n\n3rd Runner Up- Indira Yadav (BSP)\nCaste - Yadav\nVotes - 8079"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "5. Sitamarhi",
+      "assembly": "Bathnaha (SC)",
+      "details": "Bathnaha (SC)\n\nMLA- Anil Kumar (BJP)\nCaste - Ravidas\nVotes - 123698\n\nRunner Up- Navin Kumar (INC)\nCaste - Pasi\nVotes - 71929\n\n2nd Runner Up- Nawal Kishor Choudhary (JSP)\nCaste - Unknown\nVotes - 5282\n\n3rd Runner Up- Pramod Baitha (IND)\nCaste - Unknown\nVotes - 1972"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "5. Sitamarhi",
+      "assembly": "Sitamarhi",
+      "details": "Sitamarhi\n\nMLA- Sunil Kumar Pintu (BJP)\nCaste - Teli\nVotes - 104226\n\nRunner Up- Sunil Kumar (RJD)\nCaste - Kushwaha\nVotes - 98664\n\n2nd Runner Up- Ram Kishor Ray (IND)\nCaste - Unknown\nVotes - 2867\n\n3rd Runner Up- Upendra Sahani (RJP)\nCaste - Sahani/Mallah\nVotes - 2419"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "5. Sitamarhi",
+      "assembly": "Parihar",
+      "details": "Parihar\n\nMLA- Gayetri Devi (BJP)\nCaste - Yadav\nVotes - 82644\n\nRunner Up- Ritu Jaiswal (IND)\nCaste - Baniya\nVotes - 65455\n\n2nd Runner Up- Smita Gupta (RJD)\nCaste - Suri-Baniya\nVotes - 48534\n\n3rd Runner Up- Awadhesh Prasad (JSP)\nCaste - Kushwaha\nVotes - 3217"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "5. Sitamarhi",
+      "assembly": "Sursand",
+      "details": "Sursand\n\nMLA- Prof. Nagendra Raut (JDU)\nCaste - Suri-Baniya\nVotes - 104157\n\nRunner Up- Syed Abu Dojana (RJD)\nCaste - Muslim\nVotes - 80490\n\n2nd Runner Up- Usha Kiran (JSP)\nCaste - Unknown\nVotes - 5993\n\n3rd Runner Up- Rajeev Nand (IND)\nCaste - Unknown\nVotes - 3625"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "5. Sitamarhi",
+      "assembly": "Bajpatti",
+      "details": "Bajpatti\n\nMLA- Rameshwar Kumar Mehto (RLM)\nCaste - Kushwaha\nVotes - 99144\n\nRunner Up- Mukesh Kumar Yadav (RJD)\nCaste - Yadav\nVotes - 95749\n\n2nd Runner Up- Aajam Khan (JSP)\nCaste - Muslim\nVotes - 6174\n\n3rd Runner Up- Md. Munna Mansuri (IND)\nCaste - Mansuri (Muslim)\nVotes - 3105"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "5. Sitamarhi",
+      "assembly": "Runnisaidpur",
+      "details": "Runnisaidpur\n\nMLA- Pankaj Kumar (JDU)\nCaste - Bhumihar\nVotes - 93672\n\nRunner Up- Chandan Kumar (RJD)\nCaste - Yadav\nVotes - 73935\n\n2nd Runner Up- Vijay Kumar Sah (JSP)\nCaste - Kanu\nVotes - 7671\n\n3rd Runner Up- Sanjay Kumar (IND)\nCaste - Unknown\nVotes - 3737"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "4. Sheohar",
+      "assembly": "Riga",
+      "details": "Riga\n\nMLA- Baidyanath Prasad (BJP)\nCaste - Baniya\nVotes - 117393\n\nRunner Up- Amit Kumar (INC)\nCaste - Rajput\nVotes - 84268\n\n2nd Runner Up- Ramashish Ray (IND)\nCaste - Unknown\nVotes - 4041\n\n3rd Runner Up- Krishna Mohan Singh (JSP)\nCaste - Rajput\nVotes - 3078"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "4. Sheohar",
+      "assembly": "Belsand",
+      "details": "Belsand\n\nMLA- Amit Kumar (LJP-R)\nCaste - Rajput\nVotes - 82076\n\nRunner Up- Sanjay Kumar Gupta (RJD)\nCaste - Baniya\nVotes - 59391\n\n2nd Runner Up- Arpna Singh (JSP)\nCaste - Unknown\nVotes - 19025\n\n3rd Runner Up- Rana Randhir Singh Chouhan (BSP)\nCaste - Rajput\nVotes - 7600"
+    },
+    {
+      "zone": "Tirhut",
+      "loksabha": "4. Sheohar",
+      "assembly": "Sheohar",
+      "details": "Sheohar\n\nMLA- Shweta Gupta (JDU)\nCaste - Baniya\nVotes - 97269\n\nRunner Up- Navneet Kumar (RJD)\nCaste - Brahmin\nVotes - 65871\n\n2nd Runner Up- Md Sharfuddin (BSP)\nCaste - Muslim\nVotes - 16469\n\n3rd Runner Up- Niraj Singh (JSP)\nCaste - Rajput\nVotes - 13952"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "38. Gaya (SC)",
+      "assembly": "Bodh Gaya (SC)",
+      "details": "Bodh Gaya (SC)\n\nMLA- Kumar Sarvjeet (RJD)\nCaste - Dusadh\nVotes - 100236\n\nRunner Up- Shyamdeo Paswan (LJP-RV)\nCaste - Dusadh\nVotes - 99355\n\n2nd Runner Up- Nandlal Kumar (IND)\nCaste - Unknown\nVotes - 10181\n\n3rd Runner Up- Lakshman Manjhi (JSP)\nCaste - Manjhi\nVotes - 4024"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "38. Gaya (SC)",
+      "assembly": "Wazirganj",
+      "details": "Wazirganj\n\nMLA- Birendra Singh (BJP)\nCaste - Bhumihar\nVotes - 94574\n\nRunner Up- Awadhesh Kumar Singh (INC)\nCaste - Rajput\nVotes - 81841\n\n2nd Runner Up- Chitranjan Kumar (BSP)\nCaste - Unknown\nVotes - 14303\n\n3rd Runner Up- Santosh Kumar (JSP)\nCaste - Teli\nVotes - 5017"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "37. Aurangabad",
+      "assembly": "Tikari",
+      "details": "Tikari\n\nMLA- Ajay Kumar (RJD)\nCaste - Koiri\nVotes - 97550\n\nRunner Up- Anil Kumar (HAM)\nCaste - Bhumihar\nVotes - 95492\n\n2nd Runner Up- Subodh Kumar Singh (IND)\nCaste - Unknown\nVotes - 3730\n\n3rd Runner Up- Uday Paswan (BSP)\nCaste - Dusadh\nVotes - 2807\n\n4th Runner Up- Shashi Kumar (JSP)\nCaste - Yadav\nVotes - 2552"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "38. Gaya (SC)",
+      "assembly": "Gaya Town",
+      "details": "Gaya Town\n\nMLA- Prem Kumar (BJP)\nCaste - Kahar\nVotes - 90878\n\nRunner Up- Akhaury Onkar Nath (INC)\nCaste - Kayasth\nVotes - 64455\n\n2nd Runner Up- Dhirendra Agrawal (JSP)\nCaste - Bania\nVotes - 4479\n\n3rd Runner Up- Mukesh Kumar Sinha (IND)\nCaste - Unknown\nVotes - 1115"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "37. Aurangabad",
+      "assembly": "Gurua",
+      "details": "Gurua\n\nMLA- Upendra Prasad ( BJP )\nCaste - Koiri\nVotes - 99758\n\nRunner Up- Vinay Kumar ( RJD )\nCaste - Yadav\nVotes - 75564\n\n2nd Runner Up- Raghvendra Narayan Yadav ( BSP )\nCaste - Yadav\nVotes - 8242\n\n3rd Runner Up - Sanjeev Shayam Singh ( JSP )\nCaste - Rajput\nVotes - 4400"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "38. Gaya (SC)",
+      "assembly": "Sherghati",
+      "details": "Sherghati\nMLA- Uday Kumar Singh ( LJP )\nCaste - Yadav\nVotes - 77270\nRunner Up- Pramod Kumar Verma ( RJD )\nCaste - Sonar\nVotes - 63746\n2nd Runner Up- Pawan Kishore ( JSP )\nCaste - Bhumiar\nVotes - 18982\n3rd Runner Up - Shane Ali Khan ( AIMIM )\nCaste - Minority\nVotes - 14754"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "36. Jehanabad",
+      "assembly": "Atri",
+      "details": "Atri\n\nMLA- Romit Kumar ( HAM )\nCaste - Bhumihar\nVotes - 102102\n\nRunner Up- Baijayanti Devi ( RJD )\nCatste - Yadav\nVotes - 76325\n\n2nd Runner Up- Shailendra Kumar ( JSP )\nCaste - Bhumihar\nVotes - 3177\n\n3rd Runner Up - Md Vakil Varish\nCaste - Minority ( Ansari )\nVotes - 2817"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "38. Gaya (SC)",
+      "assembly": "Barachatti (SC)",
+      "details": "Barachatti (SC)\nMLA- Jyoti Devi ( HAM )\nCaste - Mushar\nVotes - 108271\nRunner Up- Tanushree kumari ( RJD )\nCaste - Mushar\nVotes - 99378\n2nd Runner Up- Hemant Kumar Paswan ( JSP )\nCaste - Paswan\nVotes - 3967\n3rd Runner Up- GS Ramchandra Das ( BSP )\nCaste - Ravidas\nVotes - 3150"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "37. Aurangabad",
+      "assembly": "Imamganj (SC)",
+      "details": "Imamganj (SC)\nMLA- Deepa Kumari ( HAM )\nCaste - Mushar\nVotes - 104861\nRunner Up- Ritu Priya Chaudhary ( RJD )\nCaste - Pasi\nVotes - 79005\n2nd Runner Up- Dr Ajeet Kumar ( JSP )\nCaste - Ravidas\nVotes - 11912\n3rd Runner Up- Tengar Paswan ( IND )\nCaste - Dusadh\nVotes - 2313"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "38. Gaya (SC)",
+      "assembly": "Belaganj",
+      "details": "Belaganj\nMLA - MANORAMA DEVI ( JDU )\nCaste - Yadav\nVotes - 95685\nRunner Up- VISHWANATH KUMAR SINGH ( RJD )\nCaste - Yadav\nVotes - 92803\n2nd Runner Up- LALU YADAV ( IND )\nCaste - Yadav\nVotes - 2769\n3rd Runner Up- VIBHUTI NARAYAN SINGH ( IND )\nCaste - Votes - 2562\n4th Runner Up- MADHUBALA KUMARI ( AAP )\nCaste - Votes - 2204\n5th Runner Up- MD SAHABUDDIN ( JSP )\nCaste - Minority\nVotes - 1621"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "37. Aurangabad",
+      "assembly": "Rafiganj",
+      "details": "Rafiganj\n\nMLA- PRAMOD KUMAR SINGH ( JDU )\nCaste - Rajput\nVotes- 107515 \n \nRunner Up- GHULAM SHAHID ( RJD )\nCaste - Minority\nVotes- 95559\n\n2nd Runner Up- SUMAN KUMARI ( BSP )\nCaste - \nVotes- 4432\n\n3rd Runner Up- SURYADEEP SINGH ( IND )\nCaste - \nVotes- 4215\n\n4th Runner Up - VIKASH KUMAR SINGH ( JSP )\nCaste - Rajput\nVotes - 3029"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "35. Karakat",
+      "assembly": "Goh",
+      "details": "Goh\nMLA- AMRENDRA KUMAR ( RJD )\nCaste - Kushwaha\nVotes- 93624\nRunner Up- DR. RANVIJAY KUMAR ( BJP )\nCaste - Bhumihar\nVotes- 89583\n2nd Runner Up- SITARAM DUKHARI ( JSP )\nCaste - Kahar\nVotes- 7996 3rd Runner Up- MD EKLAKHA ( ASP )\nCaste - Minority\nVotes- 6631\n5th Runner Up - ER. SANJAY PRASAD KUSHWAHA ( BSP )\nCaste - Kushwaha\nVotes - 1946"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "37. Aurangabad",
+      "assembly": "Aurangabad",
+      "details": "Aurangabad\nMLA- TRIVIKRAM NARAYAN SINGH ( BJP )\nCaste - Rajput\nVotes- 87200\n \nRunner Up- ANAND SHANKAR SINGH ( RJD )\nCaste - Rajput\nVotes- 80406\n\n2nd Runner Up- SHAKTI KUMAR MISHRA ( BSP )\nCaste - Brahmin\nVotes- 19776\n\n4th Runner Up- NAND KISHOR YADAV ( JSP ) \nCaste - Yadav\nVotes- 2755"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "37. Aurangabad",
+      "assembly": "Kutumba (SC)",
+      "details": "Kutumba (SC)\n\nMLA- LALAN RAM ( HAM )\nCaste - Ravidas\nVotes- 84727\n \nRunner Up- RAJESH KUMAR ( INC )\nCaste - Ravidas\nVotes- 63202\n\n2nd Runner Up- SHYAMBALI RAM ( JSP )\nCaste - Paswan\nVotes- 6065"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "35. Karakat",
+      "assembly": "Nabinagar",
+      "details": "Nabinagar\n\nMLA- Chetan Anand ( JDU )\nCaste - Rajput\nVotes - 80380\n\nRunner Up- Amod Kumar Singh ( RJD )\nCatste - Kahar\nVotes - 80268\n\n2nd Runner Up- Lav Kumar Singh ( IND )\nCaste - Yadav\nVotes - 7075\n\n3rd Runner Up - Vinod Kumar ( BSP )\nCaste - \nVotes - 6595\n\n4th Runner Up - Archana Chandra ( JSP )\nCaste - Yadav\nVotes - 4085"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "35. Karakat",
+      "assembly": "Obra",
+      "details": "Obra\n\nMLA- Prakash Chandra ( LJP )\nCaste - Teli\nVotes - 91638\n\nRunner Up- Rishi Kumar ( RJD )\nCatste - Yadav\nVotes - 79625\n\n2nd Runner Up- Sanjay Kumar ( BSP )\nCaste - Yadav\nVotes - 7896\n\n3rd Runner Up - Md Taufeeq Alam ( IND )\nCaste - Minority \nVotes - 4566\n\n4th Runner Up- Uday Narayan Rajbhar ( SBSP )\nCaste - Rajbhar\nVotes - 3968\n\n5th Runner Up - Sudhir Kumar Sharma ( JSP )\nCaste - Bhaumihar\nVotes - 3779"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "36. Jehanabad",
+      "assembly": "Makhdumpur (SC)",
+      "details": "Makhdumpur (SC)\n\nMLA- SUBEDAR DAS ( RJD )\nCaste - Ravidas\nVotes- 74769\n \nRunner Up- RANI KUMARI ( LJP )\nCaste - Paswan\nVotes- 72939\n\n2nd Runner Up- SHANKAR SWARUP ( JSP )\nCaste - Paswan\nVotes- 4803"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "36. Jehanabad",
+      "assembly": "Ghosi",
+      "details": "Ghosi\n\nMLA- RITURAJ KUMAR ( JDU )\nCaste - Bhumihar\nVotes- 80740\n \nRunner Up- RAMBALI SINGH YADAV ( CPI-ML )\nCaste - Yadav\nVotes- 68811\n\n2nd Runner Up- ANURADHA SINHA ( BSP )\nCaste - \nVotes- 3715\n\n5th Runner Up - PRABHAT KUMAR ( JSP )\nCaste - Kurmi\nVotes - 3070"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "36. Jehanabad",
+      "assembly": "Jehanabad",
+      "details": "Jehanabad\n\nMLA- Rahul Kumar ( RJD )\nCaste - Bhumihar\nVotes - 86402\n\nRunner Up- Chandeshwar Prasad ( JDU )\nCatste - Kahar\nVotes - 85609\n\n2nd Runner Up- Abhiram Singh ( JSP )\nCaste - Bhumihar\nVotes - 5760\n\n3rd Runner Up - Ritesh Kumar ( IND )\nCaste - \nVotes - 4330"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "36. Jehanabad",
+      "assembly": "Arwal",
+      "details": "Arwal\n\nMLA- Manoj Kumar (BJP)\nCaste - Bhumihar\nVotes - 79854\n\nRunner Up- Mahanand Singh (CPI(ML) (L))\nCaste - Kushwaha\nVotes - 65761\n\n2nd Runner Up- Veerendra Prasad (IND)\nCaste - Unknown\nVotes - 3879\n\n3rd Runner Up- Shekhar Ram (BSP)\nCaste - Unknown\nVotes - 3719\n\n4th Runner Up- Kunti Devi (JSP)\nCaste - Yadav\nVotes - 3376"
+    },
+    {
+      "zone": "Magadh",
+      "loksabha": "36. Jehanabad",
+      "assembly": "Kurtha",
+      "details": "Kurtha\n\nMLA- Pappu Kumar Verma ( JDU )\nCaste - Kushwaha\nVotes - 74466\n\nRunner Up- Kumar Krishan Mohan ( RJD )\nCatste - Yadav\nVotes - 68985\n\n2nd Runner Up- Rambali Singh ( JSP )\nCaste - Kahar\nVotes - 5030\n\n3rd Runner Up - Ashok Kumar ( BSP )\nCaste - \nVotes - 3338"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "33. Buxar",
+      "assembly": "Dinara",
+      "details": "Dinara\nMLA- ALOK KUMAR SINGH ( RLM )\nCaste - Rajput\nVotes- 78338\n \nRunner Up- SHASHI SHANKAR KUMAR ALIAS RAJESH YADAV ( RJD )\nCaste -Yadav \nVotes- 67504\n\n2nd Runner Up- JAI KUMAR SINGH ( IND )\nCaste - Rajput\nVotes- 17839\n\n4th Runner Up - SANJAY KUMAR ( JSP )\nCaste - Jaiswal\nVotes - 6406"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "34. Sasaram (SC)",
+      "assembly": "Sasaram",
+      "details": "Sasaram\nMLA - SNEHLATA ( RLM )\nCaste - Kushwaha\nVotes - 105006\nRunner Up - SATENDRA SAH ( RJD )\nCaste - Vaish ( Bania )\nVotes - 79563\n2nd Runner Up - ASHOK KUMAR ( BSP )\nCaste - Kushwaha\nVotes - 10261\n3rd Runner Up- BINAY KUMAR SINGH ( JSP )\nCaste - Votes - 6495"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "34. Sasaram (SC)",
+      "assembly": "Chenari (SC)",
+      "details": "Chenari (SC)\n\nMLA - MURARI PRASAD GAUTAM ( LJP )\nCaste - Ravidas\nVotes - 95579\n\nRunner Up - MANGAL RAM ( INC )\nCaste - Ravidas\nVotes - 73591\n2nd Runner Up - NEHA KUMARI NATRAZ ( JSP )\nCaste - Nat\nVotes - 9404"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "35. Karakat",
+      "assembly": "Dehri",
+      "details": "Dehri\n\nMLA - RAJEEV RANJAN SINGH ( LJP )\nCaste - Rajput\nVotes - 104022\n\nRunner Up - GUDDU KUMAR CHANDRAVANSHI ( RJD )\nCaste - Kahar\nVotes - 68054\n2nd Runner Up - PHATE BAHADUR SINGH ( ASP )\nCaste - Kushwaha\nVotes - 7003\n3rd Runner Up- PRADEEP LALLAN SINGH ( JSP )\nCaste - Kahar\nVotes - 4323"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "35. Karakat",
+      "assembly": "Karakat",
+      "details": "Karakat\n\nMLA - ARUN SINGH ( CPI-ML )\nCaste - Kushwaha\nVotes - 74157\n\nRunner Up - MAHABALI SINGH ( JDU )\nCaste - Kushwaha\nVotes - 71321\n2nd Runner Up - JYOTI SINGH ( IND )\nCaste - Rajput\nVotes - 23469\n3rd Runner Up- YOGENDRA SINGH ( JSP )\nCaste - Rajput\nVotes - 7503\n4th Runner Up - BANDANA RAJ ( BSP )\nCaste - Yadav\nVotes - 7377"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "35. Karakat",
+      "assembly": "Nokha",
+      "details": "Nokha\nMLA- Nagendar Chandravanshi ( JDU )\nCaste - Kahar\nVotes - 93193\nRunner Up- Anita Devi ( RJD )\nCaste - Nonia\nVotes - 69139\n2nd Runner Up- Nasrullah Khan ( JSP )\nCaste - Minority Votes - 4831\n3rd Runner Up - Sunita Kumari ( BSP )\nCaste - Votes - 4373"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "34. Sasaram (SC)",
+      "assembly": "Kargahar",
+      "details": "Kargahar\n\nMLA- Bashisth Singh ( JDU )\nCaste - Kurmi\nVotes - 92485\n\nRunner Up- Uday Pratap Singh ( BSP )\nCatste - Kurmi\nVotes - 56809\n\n2nd Runner Up- Santosh Kumar Mishra ( INC )\nCaste - Brahmin\nVotes - 39333\n\n3rd Runner Up - Ritesh Ranjan ( JSP )\nCaste - Brahmin\nVotes - 16298"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "33. Buxar",
+      "assembly": "Ramgarh",
+      "details": "Ramgarh\nMLA- SATISH KUMAR SINGH YADAV ( BSP )\nCaste - Yadav\nVotes- 72689\nRunner Up- ASHOK KUMAR SINGH ( BJP )\nCaste - Rajput\nVotes- 72659\n2nd Runner Up- AJIT KUMAR ( RJD )\nCaste - Rajput\nVotes- 41480\n3rd Runner Up- ANAND KUMAR SINGH ( JSP )\nCaste - Rajput\nVotes- 4426"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "34. Sasaram (SC)",
+      "assembly": "Mohania (SC)",
+      "details": "Mohania (SC)\n\nMLA- Sangita Kumari ( BJP )\nCaste - Ravidas\nVotes - 76290\n\nRunner Up- Ravi Shankar Paswan ( IND )\nCaste - Dusadh \nVotes - 57538\n\n2nd Runner Up- Omprakash Narayan ( BSP )\nCaste - Ravidas\nVotes - 32263\n\n3rd Runner Up - Gita Devi ( JSP )\nCaste - Pasi\nVotes - 14128"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "34. Sasaram (SC)",
+      "assembly": "Chainpur",
+      "details": "Chainpur\nMLA- Md Zama Khan ( JDU )\nCaste - Minority\nVotes - 70876\nRunner Up- Brij Kishore Bind ( RJD )\nCaste - Bind\nVotes - 62514\n2nd Runner Up- Dhiraj Kumar Singh ( BSP )\nCaste - Rajput\nVotes - 51200\n3rd Runner Up - Hemant Kumar Chaubey ( JSP )\nCaste - Brahmin\nVotes - 6877"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "34. Sasaram (SC)",
+      "assembly": "Bhabua",
+      "details": "Bhabua\n\nMLA- Bharat Bind ( BJP )\nCaste - Bind\nVotes - 80039\n\nRunner Up- Birendra Kumar Singh ( RJD )\nCatste - Kushwaha\nVotes - 55624\n\n2nd Runner Up- Vikash Singh ( BSP )\nCaste - Kurmi\nVotes - 39711\n\n3rd Runner Up - Jainendra Kumar Arya ( JSP )\nCaste - Kanu\nVotes - 6775"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "32. Arrah",
+      "assembly": "Shahpur",
+      "details": "Shahpur\n\nMLA- RAKESH RANJAN ( BJP )\nCaste - Brahmin\nVotes- 88655\n \nRunner Up- RAHUL TIWARY ( RJD )\nCaste - Brahmin\nVotes- 73430\n\n2nd Runner Up- PADMA OJHA ( JSP )\nCaste - Brahmin\nVotes- 3948\n\n3rd Runner Up- DHARMENDRA KUMAR ( BSP )\nCaste - \nVotes- 2923"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "32. Arrah",
+      "assembly": "Barhara",
+      "details": "Barhara\n\nMLA- RAGHVENDRA PRATAP SINGH ( BJP )\nCaste - Rajput\nVotes- 79593\n \nRunner Up- ASHOK KUMAR SINGH ( RJD )\nCaste - Rajput\nVotes- 65190\n\n2nd Runner Up- SURYA BHAN SINGH ( IND )\nCaste - Rajput\nVotes- 9268\n\n5Th Runnerup - SAURABH SINGH YADAV ( JSP )\nCaste - Yadav\nVotes - 3189"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "32. Arrah",
+      "assembly": "Arrah",
+      "details": "Arrah\n\nMLA - SANJAY SINGH (TIGER) BJP\nCaste - Rajput\nVotes - 94201\n\nRunner Up - QUYAMUDDIN ANSARI ( CPI-ML )\nCaste - Minority ( Ansari )\nVotes - 74620\n\n2nd Runner Up - DR VIJAY KUMAR GUPTA ( JSP )\nCaste - Kanu\nVotes - 5800"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "32. Arrah",
+      "assembly": "Agiaon (SC)",
+      "details": "Agiaon (SC)\nMLA - MAHESH PASWAN ( BJP )\nCaste - Dusadh\nVotes - 69412\nRunner Up - SHIV PRAKASH RANJAN ( CPI-ML )\nCaste - Ravidas\nVotes - 69317\n2nd Runner Up - RAMESH KUMAR ( JSP )\nCaste - Ravidas\nVotes - 3882"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "32. Arrah",
+      "assembly": "Sandesh",
+      "details": "Sandesh\n\nMLA- Radha Charan Sah ( JDU )\nCaste - Halwai ( Kanu )\nVotes - 80598\n\nRunner Up- Dipu Singh ( RJD )\nCatste - Yadav\nVotes - 80571\n\n2nd Runner Up- Rajiv Ranjan Raj ( JSP )\nCaste - Rajput\nVotes - 6040\n\n3rd Runner Up - Mukesh Singh ( IND )\nCaste - \nVotes - 5399"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "32. Arrah",
+      "assembly": "Jagdishpur",
+      "details": "Jagdishpur\n\nMLA- Sribhagwan Singh Kushwaha ( JDU )\nCaste - Kushwaha\nVotes - 92974\n\nRunner Up- Kishore Kunal ( RJD )\nCatste - Yadav\nVotes - 74781\n\n2nd Runner Up- Vijay Singh ( JSP )\nCaste - Rajput\nVotes - 5106\n\n3rd Runner Up - Rajeev Ranjan ( IND )\nCaste - \nVotes - 3272"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "32. Arrah",
+      "assembly": "Tarari",
+      "details": "Tarari\n\nMLA- Vishal Prashant ( BJP )\nCaste - Bhumiar\nVotes - 96887\n\nRunner Up- Madan Singh ( CPI-ML )\nCaste - Kahar\nVotes - 85423\n\n2nd Runner Up- Rajendra Kumar Pathak ( IND )\nCaste - Brahmin\nVotes - 2634\n\n3rd Runner Up - Chandrashekhar Singh ( JSP )\nCaste - Rajput\nVotes - 2271"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "33. Buxar",
+      "assembly": "Rajpur (SC)",
+      "details": "Rajpur (SC)\n\nMLA- Santosh Kumar Nirala (JDU)\nCaste - Ravidas\nVotes - 80701\n\nRunner Up- Vishwanath Ram (INC)\nCaste - Ravidas\nVotes - 71565\n\n2nd Runner Up- Lal Jee Ram (BSP)\nCaste - Ravidas\nVotes - 20498\n\n3rd Runner Up- Dhananjay Kumar (JSP)\nCaste - Dusadh\nVotes - 12491"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "33. Buxar",
+      "assembly": "Buxar",
+      "details": "Buxar\n\nMLA- Anand Mishra ( BJP )\nCaste - Brahmin \nVotes - 84901\n\nRunner Up- Sanjay Kumar Tiwari ( INC )\nCatste - Brahmin \nVotes - 56548\n\n2nd Runner Up- Abhimanyu Maury ( BSP )\nCaste - Kushwaha\nVotes - 29118\n\n3rd Runner Up - Tathaghat Harsh Vardhan (JSP)\nCaste - Brahmin\nVotes - 7920"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "33. Buxar",
+      "assembly": "Dumraon",
+      "details": "Dumraon\n\nMLA- Rahul Kumar Singh ( JDU )\nCaste - Rajput\nVotes - 79411\n\nRunner Up- Dr Ajit Kumar Singh ( CPI-ML )\nCatste - Kushwaha\nVotes - 77306\n\n2nd Runner Up- Dadan Yadav ( BSP )\nCaste - Yadav\nVotes - 11127\n\n3rd Runner Up - Shivang Vijay Singh ( JSP )\nCaste - Rajput\nVotes - 5273"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "10. Kishanganj",
+      "assembly": "Thakurganj",
+      "details": "Thakurganj\n\nMLA- Gopal Kumar Agarwal (JDU)\nCaste - Baniya\nVotes - 85243\n\nRunner Up- Ghulam Hasnain (PARTY-UNKNOWN)\nCaste - Muslim\nVotes - 76421\n\n2nd Runner Up- Saud Alam (RJD)\nCaste - Muslim\nVotes - 60036\n\n3rd Runner Up- Md Ekramul Haque (JSP)\nCaste - Muslim\nVotes - 6806"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "10. Kishanganj",
+      "assembly": "Kochadhaman",
+      "details": "Kochadhaman\r\n\r\nMLA- Md. Sarwar Alam (Muslim) AIMIM\r\nVotes- 81860\r\n\r\nRunner Up- Mujahid Alam (Muslim) RJD\r\nVotes- 58839\r\n\r\n2nd Runner Up- Bina Devi (OBC) BJP\r\nVotes- 44858\r\n\r\n3rd Runner Up- Md. Shamsul Haque (Muslim) IND\r\nVotes- 2188\r\n"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "10. Kishanganj",
+      "assembly": "Bahadurganj",
+      "details": "Bahadurganj \n\nMLA- Md tauseef Alam (AIMIM)\nVotes - 87315\n\nRunner Up- Mohammad Masawar Alam (INC) \nVotes - 58589\n\n2nd Runner Up- Mohammad Kalimuddin (LJP) \nVotes - 57195 \n\n3rd Runner Up - Barun Kumar Singh (JSP)\nVotes - 3193"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "10. Kishanganj",
+      "assembly": "Kishanganj",
+      "details": "Kishanganj\r\n\r\nMLA- Md. Qamrul Hoda (Muslim) INC\r\nVotes- 89669\r\n\r\nRunner Up- Sweety Singh (Rajput) BJP\r\nVotes- 76875\r\n\r\n2nd Runner Up- Shams Aghaz (Muslim) AIMIM\r\nVotes- 51370\r\n\r\n3rd Runner Up- Md. Ishaque Alam (Muslim) JSP\r\nVotes- 1904\r\n"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "11. Katihar",
+      "assembly": "Kadwa",
+      "details": "Kadwa\nMLA- Dulal Chandra Goswami (JDU)\nVotes- 99274\nRunner Up- Shakeel Ahmad Khan (INC)\nVotes- 80906\n2nd Runner Up- Md Shakir Reza (AIMIM)\nVotes- 11557\n3rd Runner Up- Himraj Singh (IND)\nVotes- 5615\n5th Runner Up - Md. Shahryar (JSP)\nVotes - 1169"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "11. Katihar",
+      "assembly": "Katihar",
+      "details": "Katihar\n\nMLA- TARKISHORE PRASAD (BJP) | \nVotes - 100255\n\nRunner Up- SAURAV KUMAR AGARWAL (VIP)\nVotes - 78101\n\n2nd Runner Up- DR. RAM PRAKASH MAHTO (IND) \nVotes - 7411\n\n3rd Runner Up- MANISHA KUMARI (PPI)\nVotes - 3253\n\n4th Runner Up - DR. GHAZI SHARIQUE (JSP)\nVotes - 2853"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "11. Katihar",
+      "assembly": "Balrampur",
+      "details": "Balrampur\nMLA- SANGITA DEVI (LJP)\nVotes - 80459 Runner Up- MOHAMMAD ADIL HASAN\n(AIMIM)\nVotes - 80070 2nd Runner Up- MAHBOOB ALAM (CPI-ML)\nVotes - 79141 3rd Runner Up- MD MOAZZAM HUSSAIN\nVotes - 9195 4th Runner Up - BARUN KUMAR JHA\nVotes - 5372 5TH Runner Up - ASHAB ALAM\nVotes - 2614"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "11. Katihar",
+      "assembly": "Pranpur",
+      "details": "Pranpur\r\n\r\nMLA- Nisha Singh ( BJP )\r\nCaste - Rajput\r\nVotes - 108565\r\n\r\nRunner Up- Ishrat Parween ( RJD )\r\nCaste - Minority\r\nVotes - 100813\r\n\r\n2nd Runner Up- Md Aftab Alam ( AIMIM )\r\nCaste - Minority\r\nVotes - 30163\r\n\r\n3rd Runner Up- Subhashchandra Sah ( IND )\r\nCaste - Kanu\r\nVotes - 2048\r\n\r\n4th Runner Up- Kunal Nishad ( JSP )\r\nCaste - Mallah\r\nVotes - 2467"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "11. Katihar",
+      "assembly": "Manihari (ST)",
+      "details": "Manihari (ST)\nMLA- MANOHAR PRASAD SINGH (INC) | Votes - 114754\nRunner Up- SHAMBHU KUMAR SUMAN (JDU) Votes - 99586\n2nd Runner Up- BABLU SOREN (JSP)\nVotes - 7647\n3rd Runner Up- SAIF ALI KHAN (INC)\nVotes - 4865\n\""
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "12. Purnia",
+      "assembly": "Korha (SC)",
+      "details": "Korha (SC)\nKorha (SC)\nMLA- KAVITA DEVI (BJP)\nVotes - 123495\nRunner Up- PUNAM KUMARI (INC)\nVotes - 101238\n2nd Runner Up- NIRMAL KUMAR RAJ (JSP)\nVotes - 4028"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "11. Katihar",
+      "assembly": "Barari",
+      "details": "Barari\n\nMLA- Bijay Singh (JDU)\nCaste - Dordhi\nVotes - 107842\n\nRunner Up- Tauquir Alam (INC)\nCaste - Minority\nVotes - 96858\n\n2nd Runner Up- Md Matiur Rahman (AIMIM)\nCaste - Minority\nVotes - 5846\n\n3rd Runner Up- Shivpujan Paswan (IND)\nCaste - Dusadh\nVotes - 4962\n\n4th Runner Up- Pritam Prasoon (JSP)\nCaste - Bania\nVotes - 3026"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "12. Purnia",
+      "assembly": "Kasba",
+      "details": "Kasba\r\n\r\nMLA- Nitesh Kumar Singh (Rajput) LJP (RV)\r\nVotes- 86877\r\n\r\nRunner Up- Md. Irfan Alam (Muslim) INC\r\nVotes- 74002\r\n\r\n2nd Runner Up- Md. Shahnawaz Alam (Muslim) AIMIM\r\nVotes- 35309\r\n\r\n3rd Runner Up- Pradeep Kumar Das (EBC) IND\r\nVotes- 11212\r\n"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "12. Purnia",
+      "assembly": "Rupauli",
+      "details": "Rupauli\n\nMLA- Kaladhar Prasad Mandal (JDU)\nCaste - Mandal\nVotes - 124826\n\nRunner Up- Bima Bharti (RJD)\nCaste - Gangota\nVotes - 51254\n\n2nd Runner Up- Shankar Singh (IND)\nCaste - Rajput\nVotes - 29986\n\n3rd Runner Up- Shankar Ram (IND)\nCaste - SC\nVotes - 3115"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "10. Kishanganj",
+      "assembly": "Amour",
+      "details": "Amour\nMLA- Akhtarul Iman (AIMIM) | Minority Votes- 100836\nRunner Up- Sabha Zafar (JDU) | Minority Votes- 61813\n2nd Runner Up- Abdul Jalil Mastan (INC) | Minority Votes- 52685\n3rd Runner Up- Mohd Parvej Alam (IND) | Minority Votes- 4585\n4th Runner Up - Afaroj (JSP) | Minority Votes- 3797"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "10. Kishanganj",
+      "assembly": "Baisi",
+      "details": "Baisi\n\nMLA- Ghulam Sarwar (AIMIM) | Kulaiya Minority\nVotes- 92766\n\nRunner Up- Vinod Kumar (BJP) | Yadav\nVotes- 65515\n\n2nd Runner Up- Abdus Subahan (RJD) | Surjapuri Minority \nVotes- 56000\n\n3rd Runner Up- Mohammad Muzammil (Peace Party) | Minority \nVotes- 2444\n4th Runner Up - Md Shahnwaz Alam (JSP) | Minority \nVotes - 2389"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "12. Purnia",
+      "assembly": "Banmankhi (SC)",
+      "details": "Banmankhi (SC)\n\nMLA- Krishna Kumar Rishi (Rishi) BJP\nVotes- 122494\n\nRunner Up- Deo Narayan Rajak (Rajak) INC\nVotes- 77198\n\n2nd Runner Up- Manoj Kumar Rishi (Rishi) JSP\nVotes- 6676\n\n3rd Runner Up- Subodh Paswan (Paswan) BSP\nVotes- 2128"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "12. Purnia",
+      "assembly": "Dhamdaha",
+      "details": "Dhamdaha\n\nMLA- Leshi Singh (Rajput) (JDU)\nVotes- 138750\n\nRunner Up- Santosh Kumar (Yadav) RJD\nVotes- 83591\n\n2nd Runner Up- Mohd Ishtiyaque Alam (Muslim) AIMIM\nVotes- 5126\n\n3rd Runner Up- Vindeshwari Sharma (Brahmin) IND\nVotes- 3032\n"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "12. Purnia",
+      "assembly": "Purnia",
+      "details": "Purnea MLA- Vijay Kumar Khemka (BJP) | Votes - 127614\nRunner Up- Jitendra Kumar (INC) | Yadav\nVotes - 94392\n2nd Runner Up- Santosh Kumar Singh (JSP) | Rajput Votes - 3701"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "9. Araria",
+      "assembly": "Jokihat",
+      "details": "Jokihat\nMLA - MOHAMMAD MURSHID ALAM ( AIMIM) | Minority Votes - 83737 Runner Up - MANZAR ALAM (JDU) | Minority Votes - 54934 2nd Runner Up - SARAFARAJ ALAM (JSP) | Minority Votes - 35354 3rd Runner Up - SHAHNAWAZ (RJD) | Minority Votes - 29659"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "9. Araria",
+      "assembly": "Raniganj (SC)",
+      "details": "Raniganj (SC)\nMLA - AVINASH MANGLAM (JDU) | Votes - 111590 Runner Up - ACHMIT RISHIDEV (JDU) |\nVotes - 103060\n2nd Runner Up - KRITYANAND RAM (JSP)\nVotes - 3183 3rd Runner Up - AMAN RAJ\nVotes - 3126"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "9. Araria",
+      "assembly": "Sikti",
+      "details": "Sikti\n\nMLA - VIJAY KUMAR MANDAL ( BJP ) | Kevrat \nVotes - 111342\n\nRunner Up - HARI NARAYAN PRAMANIK ( VSIP ) | Mallah\nVotes - 92020\n2nd Runner Up - MD RAGHIB ( JSP ) | Minority \nVotes - 3789\n3rd Runner Up- BHOLA PRASAD SINGH ( BSP ) | Gangai \nVotes - 3357"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "9. Araria",
+      "assembly": "Narpatganj",
+      "details": "Narpatganj\n\nMLA - DEVANTI YADAV ( BJP ) | Yadav \nVotes - 120557\n\nRunner Up - MANISH YADAV ( RJD ) | Yadav \nVotes - 95204\n2nd Runner Up - ANIL KUMAR YADAV ( IND ) | Yadav \nVotes - 10669\n5th RunnerUp - JANARDAN YADAV ( JSP ) | Yadav \nVotes - 1688"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "9. Araria",
+      "assembly": "Araria",
+      "details": "Araia\n\nMLA : Abidur Rahman (INC) | Minority \nVotes: 91529\n\nRunner Up : Shagufta Azim (JDU) | Minority \nVotes: 78788\n\n2nd Runner Up: Manzoor Alam (AIMIM) | Minority \nVotes : 53421\n\n3rd Runner Up: Shivdeep W Lande (IND) | Brahman\nVotes : 4085\n\n4th Runner Up: Farhat Ara Begum (JSP) | JSP\nVotes : 2434"
+    },
+    {
+      "zone": "Seemanchal",
+      "loksabha": "9. Araria",
+      "assembly": "Forbesganj",
+      "details": "Forbesganj\n\nMLA- Manoj BiswaS (INC)\nCaste - Amat\nVotes - 120114\n\nRunner Up- Viday Sagar Kesari (BJP)\nCaste - Kesarwani\nVotes - 119893\n\n2nd Runner Up- Fatima Khatun (RJSP)\nCaste - Minority\nVotes - 2151\n\n3rd Runner Up- Raja Raman Bhashkar (IND)\nCaste - Unknown\nVotes - 1759\n\n4th Runner Up- Subhash Chandra Agrawal (IND)\nCaste - Marwadi\nVotes - 1325\n\n5th Runner Up- Md Ekramul Haque (JSP)\nCaste - Minority\nVotes - 977"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "8. Supaul",
+      "assembly": "Pipra (Supaul)",
+      "details": "Pipra\nMLA- Rambilash Kamat (JDU) | Mallah Votes- 107041\nRunner Up- Anil Kumar (CPI-ML) | Rajput Votes- 69265\n2nd Runner Up- Laxmi Kant Bharti (Ind) | Votes- 12014\n3rd Runner Up- Indradev Shah (JSP) | Teli Votes- 5519"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "8. Supaul",
+      "assembly": "Nirmali",
+      "details": "Nirmali\n\nMLA- Aniruddha Prasad Yadav (JDU)\nCaste - Yadav\nVotes - 118904\n\nRunner Up- Baidyanath Mehta (RJD)\nCaste - Koeri/Kushwaha\nVotes - 81594\n\n2nd Runner Up- Ram Pravesh Kumar Yadav (JSP)\nCaste - Yadav\nVotes - 6877\n\n3rd Runner Up- Siya Ram Mandal (IND)\nCaste - Mandal\nVotes - 2992"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "8. Supaul",
+      "assembly": "Triveniganj (SC)",
+      "details": "Triveniganj (SC)\n\nMLA- Sonam Rani (JDU)\nVotes- 105262\n\nRunner Up- Santosh Kumar (RJD)\nVotes- 99575\n\n2nd Runner Up- Pradeep Ram (JSP) (Ravidas)\nVotes- 4490 \n\n3rd Runner Up- Jitendra Ram (RJP) (Ravidas)\nVotes- 4246"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "8. Supaul",
+      "assembly": "Chhatapur",
+      "details": "Chhatapur \n\nMLA- Niraj Kumar Singh (BJP) | Rajput \nVotes- 122491\n\nRunner Up- Dr. Vipin Kumar Singh (RJD) | Nonia \nVotes- 106313\n\n2nd Runner Up- Deepak Kumar (Independent) | Halwai \nVotes- 3993\n\n3rd Runner Up- Abhay kumar Singh (JSP) | Rajput \nVotes- 2236"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "8. Supaul",
+      "assembly": "Supaul",
+      "details": "Supaul\n\nMLA - BIJENDER PRASAD YADAY ( JDU ) | Yadav\nVotes - 109085\n\nRunner Up - MINNATULLAH RAHMANI ( INC ) | Minority \nVotes - 78282\n2nd Runner Up - ANIL KUMAR SINGH ( JSP ) | Rajput\nVotes - 5139"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "13. Madhepura",
+      "assembly": "Saharsa",
+      "details": "Saharsa\n\nMLA- Indrajeet Prasad Gupta (IIP)\nCaste - Teli\nVotes - 115036\n\nRunner Up- Alok Ranjan (BJP)\nCaste - Unknown\nVotes - 112998\n\n2nd Runner Up- Kishor Kumar (JSP)\nCaste - Rajput\nVotes - 12786"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "25. Khagaria",
+      "assembly": "Simri Bakhtiarpur",
+      "details": "Simri Bakhtiarpur\n\nMLA- Sanjay Kumar Singh (LJP-R))\nCaste - Rajput\nVotes - 109699\n\nRunner Up- Yusuf Salahuddin (RJD)\nCaste - Muslim\nVotes - 101769\n\n2nd Runner Up- Vikash Raj (IND)\nCaste - Rajput\nVotes - 7493\n\n3rd Runner Up- Surendra Kumar Yadav (JSP)\nCaste - Yadav\nVotes - 2270Simri Bakhtiarpur\n\nMLA- Sanjay Kumar Singh (LJP (RV))\nCaste - Rajput\nVotes - 109699\n\nRunner Up- Yusuf Salahuddin (RJD)\nCaste - Muslim\nVotes - 101769\n\n2nd Runner Up- Vikash Raj (IND)\nCaste - Rajput\nVotes - 7493\n\n3rd Runner Up- Surendra Kumar Yadav (JSP)\nCaste - Yadav\nVotes - 2270"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "13. Madhepura",
+      "assembly": "Mahishi",
+      "details": "Mahishi\n\nMLA- Gautam Krishna (Yadav) RJD\nVotes- 93752\n\nRunner Up- Gunjeshwar Sah (Vaishya) (JDU)\nVotes- 90012\n\n2nd Runner Up- Suraj Samrat (EBC) IND\nVotes- 3142\n\n3rd Runner Up- Shamim Akhtar (Muslim) JSP\nVotes- 2571\n"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "13. Madhepura",
+      "assembly": "Sonbarsha (SC)",
+      "details": "Sonbarsha (SC)\n\nMLA- Ratnesh Sada (JDU)\nCaste - Musahar\nVotes - 97833\n\nRunner Up- Sarita Devi (INC)\nCaste - Unknown\nVotes - 84379\n\n2nd Runner Up- Satyendra Kumar (JSP)\nCaste - Dusadh\nVotes - 5655\n\n3rd Runner Up- Kiran Devi (BSP)\nCaste - Unknown\nVotes - 5019"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "13. Madhepura",
+      "assembly": "Madhepura",
+      "details": "Madhepura\r\n\r\nMLA- Chandra Shekhar (Yadav) RJD\r\nVotes- 108464\r\n\r\nRunner Up- Kavita Kumari Saha (Vaishya/Saha) JD(U)\r\nVotes- 100655\r\n\r\n2nd Runner Up- Pranav Prakash (Kayastha) IND\r\nVotes- 7894\r\n\r\n3rd Runner Up- Shashi Kumar (EBC) JSP\r\nVotes- 4634\r\n"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "13. Madhepura",
+      "assembly": "Bihariganj",
+      "details": "Bihariganj\nMLA- Niranjan Kumar Mehta (JDU)\nCaste - Koeri/Kushwaha\nVotes - 116622\nRunner Up- Renu Kumari (RJD)\nCaste - Yadav\nVotes - 85000\n2nd Runner Up- Karn Kumar Mishra (IND)\nCaste - Brahmin\nVotes - 5372\n3rd Runner Up- Amlesh Roy (JSP)\nCaste - Yadav\nVotes - 4486"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "13. Madhepura",
+      "assembly": "Alamnagar",
+      "details": "Alamnagar\n\nMLA - NARENDAR NARAYAN YADAV ( JDU ) | Yadav\nVotes - 138401\n\nRunner Up - NABIN KUMAR ( VSIP ) | Mallah\nVotes - 82936\n2nd Runner Up - SUBODH KUMAR SUMAN ( JSP ) | Gangota\nVotes - 8934\n3rd Runner Up- RUBY KUMARI ( IND ) | \nVotes - 4695"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "8. Supaul",
+      "assembly": "Singheshwar (SC)",
+      "details": "Singheshwar (SC)\n\nMLA - Ramesh Rishi (JDU)  (Musahar)\nVotes - 106416\nRunner Up - Chandrahas Chaupal (RJD) (Paan) \nVotes - 103434\n3rd Runner Up- Pramod Ram (JSP) (Ravidas) \nVotes - 3516"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "25. Khagaria",
+      "assembly": "Parbatta",
+      "details": "151 - Parbatta\nMLA - BABULAL SHORYA (LJP)\nVotes - 118677\nRunner Up - DOCTOR SANJEEV KUMAR (RJD) Votes - 84638\n2nd Runner Up - VINAY KUMAR VARUN (JSP)\nVotes - 3196"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "25. Khagaria",
+      "assembly": "Alauli (SC)",
+      "details": "Alauli (SC)\nMLA- Ramchandra Sada (JDU)  \nCaste - Musahar \nVotes- 93208\nRunner Up- Rambriksha Sada (RJD) \nCaste -  Musahar\nVotes- 57476\n2nd Runner Up- Yash Raj (RLJP) \nCaste -  Dusadh \nVotes- 14261 \n3rd Runner Up- Abhishank Kumar (JSP) \nCaste -  Passi\nVotes- 7476"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "25. Khagaria",
+      "assembly": "Beldaur",
+      "details": "Beldaur \n\nMLA- Panna Lal Singh Patel (JDU) | Kurmi\nVotes- 106262\n\nRunner Up- Mithilesh Kumar Nishad (INC) | Mallah\nVotes- 71087\n\n2nd Runner Up- Tanisha Bharti (IIP) | \nVotes- 9188\n\n3rd Runner Up- Gajendra Kumar Singh(JSP) | Mallah\nVotes- 5235"
+    },
+    {
+      "zone": "Koshi",
+      "loksabha": "25. Khagaria",
+      "assembly": "Khagaria",
+      "details": "Khagaria \n\nMLA- Bablu Kumar (JDU) | \nVotes- 93988\n\nRunner Up- Chandan Kumar Yadav(INC) | Yadav\nVotes- 70573\n\n2nd Runner Up- Manish Kumar Singh (IND) | \nVotes- 5507\n\n3rd Runner Up- Jayanti Patel (JSP) | Kurmi \nVotes- 4232"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "24. Begusarai",
+      "assembly": "Matihani",
+      "details": "Matihani\n\nMLA-NARENDRA KUMAR SINGH \"BOGO SINGH\" ( RJD ) | Bhumihar \nVotes- 117789 \n \nRunner Up- RAJ KUMAR SINGH ( JDU ) | Bhumihar \nVotes- 112499\n\n2nd Runner Up- ARUN KUMAR ( JSP ) | Bhumihar \nVotes- 6774"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "24. Begusarai",
+      "assembly": "Bachhwara",
+      "details": "Bachhwara\nMLA- Surendra Mehta (BJP)\nVotes - 1,00343\nRunner Up- Shiv Prakash Garib Das Votes -84,502\n2nd Runner Up- Abdesh Kumar Rai (CPI)\nVotes - 21,588\n3rd Runner Up- Ramod Kumar (JSP) (Bhumihar)Votes - 7,654"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "24. Begusarai",
+      "assembly": "Sahebpur Kamal",
+      "details": "Sahebpur Kamal\nMLA- Sattanand Sambuddha Urf Lallan Jee (RJD) | Yadav\nVotes- 76798\nRunner Up- Surendra Kumar Urf Surendra Vivek (LJP) | Bhumihar\nVotes- 61077\n2nd Runner Up-Shashikant Kumar urf Amar Singh (IND) | Kurmi\nVotes- 34781\n4rd Runner Up- Md Abdullah (JSP) | Minority\nVotes- 3396"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "24. Begusarai",
+      "assembly": "Begusarai",
+      "details": "Begusarai\nMLA - KUNDAN KUMAR (BJP) |\rVotes - 119506 Runner Up - AMITA BHUSHAN (INC)\rVotes - 88874 2nd Runner Up - SURENDRA KUMAR SAHANI (JSP)\rVotes - 7773"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "24. Begusarai",
+      "assembly": "Cheria-Bariarpur",
+      "details": "Cheria Bariarpur\n\nMLA- Abhishek Anand (JDU)\nCaste - Koeri\nVotes - 75081\n\nRunner Up- Sushil Kumar (RJD)\nCaste - Koeri\nVotes - 70962\n\n2nd Runner Up- Mritunjay Kumar (JSP)\nCaste - Bhumihar\nVotes - 24595\n\n3rd Runner Up- Ram Sakha Mahto (IND)\nCaste - Koeri\nVotes - 7537"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "24. Begusarai",
+      "assembly": "Teghra",
+      "details": "Teghra\nMLA - RAJNISH KUMAR ( BJP ) | Bhumihar Votes - 112770\nRunner Up - RAM RATAN SINGH ( CPI ) | Bhumihar Votes - 77406\n2nd Runner Up - RAM NANDAN SINGH ( JSP )| Bhumihar Votes - 8442\n3rd Runner Up- SUDHA BHARTI ( IND ) | Bhumihar\nVotes - 3169"
+    },
+    {
+      "zone": "Samastipur",
+      "loksabha": "24. Begusarai",
+      "assembly": "Bakhri (SC)",
+      "details": "Bakhri (SC)\nMLA - SANJAY KUMAR (LJP) | Dusadh Votes - 98511 Runner Up - SURYAKANT PASWAN (CPI) | Dusadh\nVotes - 81193 2nd Runner Up - SANJAY KUMAR (JSP) | Dusadh Votes - 11529 3rd Runner Up- SANJIV KUMAR PASWAN (IND) | Dusadh Votes - 2968"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "30. Patna Sahib",
+      "assembly": "Patna Sahib",
+      "details": "184- Patna Sahib\n\nMLA- Ratnesh Kumar ( BJP )\nVotes- 130366 (Kushwaha)\n \nRunner Up- Shashant Shekhar (INC)\nVotes- 91466 (Yadav)\n\n2nd Runner Up- Vinita Mishra (JSP)\nVotes- 5263 (Bhumihar)\n\n3rd Runner Up- MD Shabab Rahbar (RJP)\nVotes-1318 (Minority)"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "31. Pataliputra",
+      "assembly": "Phulwari (SC)",
+      "details": "188- Phulwari (SC)\nMLA- Shyam Rajak (JDU)\nVotes- 126470 ( Dhobi )\nRunner Up- Gopal Ravidas (CPI-ML )\nVotes- 93813 ( Ravidas )\n2nd Runner Up- Shashi kant Prasad (JSP)\nVotes- 11100 (Dusadh)\n3rd Runner Up- Arun Kumar Rajak (AAP)\nVotes- 5305 (Dhobi)"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "31. Pataliputra",
+      "assembly": "Maner",
+      "details": "187- Maner\nMLA- Bhai Birendra (RJD)\nVotes- 110798 ( Yadav )\nRunner Up- Jidendra Yadav (LJP-R)\nVotes- 90764 ( Yadav )\n2nd Runner Up- Sandip Kumar singh Alias Gopal Singh (JSP)\nVotes- 3980 (Rajput)"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "28. Munger",
+      "assembly": "Barh",
+      "details": "179- Barh\nMLA- Siyaram Singh (BJP)\nVotes- 99446 (Rajput)\nRunner Up- Karanveer Singh Yadav (RJD)\nVotes- 74633 (Yadav)\n2nd Runner Up- Mahesh Prasad Singh (JSP)\nVotes- 3473 (Rajput)"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "31. Pataliputra",
+      "assembly": "Masaurhi (SC)",
+      "details": "Masaurhi (SC)\n\nMLA- Arun Manjhi (JDU)\nVotes- 106505 (Mushar)\n\nRunner Up- Rekha Devi (RJD)\nVotes- 98862 (Dusadh)\n\n2nd Runner Up- Rajeshwar Manjhi (JSP)\nVotes- 4693 (Mushar)"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "30. Patna Sahib",
+      "assembly": "Digha",
+      "details": "Digha\nMLA - Sanjiv Chaurasia (BJP)\nVotes - 111001 (Pan)\nRunner Up - Divya Gautam (CPI-ML)\nVotes - 51922 (Rajput)\n2nd Runner Up - Ritesh Ranjan Alias Bittu Singh (JSP)\nVotes - 22071 (Rajput)"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "30. Patna Sahib",
+      "assembly": "Bankipur",
+      "details": "Bankipur\nMLA - Nitin Nabin (BJP)\nVotes - 98299 (Kayast)\nRunner Up - Rekha Kumari (RJD)\nVotes - 46363 (Baniya) Teli\n2nd Runner Up - Vandana Kumari (JSP)\nVotes - 7717 (Bhumihar)"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "30. Patna Sahib",
+      "assembly": "Kumhrar",
+      "details": "Kumhrar\nMLA - Sanjay Kumar (BJP)\nVotes - 100485 (Baniya)\nRunner Up - Indradeep Kumar Chandravanshi (INC)\nVotes - 52961 (Kahar)\n2nd Runner Up - K C Sinha (JSP)\nVotes - 15017 (Kayasth)\n3rd Runner Up- Dr Uma Kant Pathak (BSP)\nVotes -668"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "31. Pataliputra",
+      "assembly": "Paliganj",
+      "details": "Paliganj\nMLA - Sandeep Saurav (CPI-ML)\nVotes - 81105 (Yadav)\nRunner Up - Sunil Kumar (LJP-R)\nVotes - 74450 (Yadav)\n2nd Runner Up - Shyam Nandan Sharma (JSP)\nVotes - 6612 (Bhumihar)"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "31. Pataliputra",
+      "assembly": "Bikram",
+      "details": "Bikram\n\nMLA- Sidhart Saurav (BJP)\nVotes- 101189 (Bhumihar)\n\nRunner Up- Anil Kumar (INC)\nVotes- 95588 (Bhumihar)\n\n2nd Runner Up- Ajeet Kumar (JJD)\nVotes- 4937 (Yadav)\n\n3rd Runner Up- Mantu Kumar (JSP)\nVotes- 3037 (Bhumihar)"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "30. Patna Sahib",
+      "assembly": "Fatuha",
+      "details": "Fatuha\nMLA- Dr Ramnandan Yadav (RJD)\nVotes - 90558 (Yadav)\nRunner Up- Rupa Kumari (LJP-R)\nVotes - 82566 (Yadav)\n2nd Runner Up- Raju Kumar (JSP)\nVotes - 8598 (Rajput)\n3rd Runner Up- Sanjeet Kumar (Ind.)\nVotes - 4802"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "30. Patna Sahib",
+      "assembly": "Bakhtiyarpur",
+      "details": "Bakhtiarpur\nMLA - Arun Kumar (LJP-R)\nVotes - 88520 Runner Up - Anirudh Kumar (RJD)\nVotes - 87539 (Yadav)\n2nd Runner Up - Balmiki Singh (JSP)\nVotes - 6581 (Kurmi)"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "28. Munger",
+      "assembly": "Mokama",
+      "details": "Mokama\nMLA - Anant Kumar Singh (JDU)\nVotes - 91416 (Bhumihar)\nRunner Up - Veena Devi (RJD)\nVotes - 63210 (Bhumihar)\n2nd Runner Up - Priyardarshi Piyush (JSP)\nVotes - 19365 (Dhanuk)"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "40. Jamui (SC)",
+      "assembly": "Tarapur",
+      "details": "Tarapur\nMLA - Samrat Chaudhary (BJP)\nVotes - 122480 (Kushwaha)\nRunner Up - Arun Kumar (RJD)\nVotes - 76637 (Teli)\n2nd Runner Up - Santosh Kumar Singh (JSP)\nVotes - 3898 (Rajput)"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "28. Munger",
+      "assembly": "Jamalpur",
+      "details": "Jamalpur\nMLA- Nachiketa (JDU)\nCaste - Dhanuk\nVotes - 96683\nRunner Up- Narendra Kumar (IIP)\nCaste - Tanti\nVotes - 60455\n2nd Runner Up- Shivdeep W. Lande (IND)\nCaste - Brahmin\nVotes - 15655\n3rd Runner Up- Lalan Jee (JSP)\nCaste - Yadav\nVotes - 3863"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "40. Jamui (SC)",
+      "assembly": "Sikandra (SC)",
+      "details": "Sikandra (SC)\n\nMLA- Praphull Kumar Manjhi (HAM)\nVotes- 91603 (Mushar)\n \nRunner Up- Uday Narain Chaudhary (RJD)\nVotes- 67696 (Pasi)\n\n2nd Runner Up- Subhash Paswan (JSP)\nVotes- 12298 (Dusadh)"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "40. Jamui (SC)",
+      "assembly": "Jamui",
+      "details": "Jamui\nMLA- Shreyasi Singh (BJP)\nVotes- 123868 (Rajput)\nRunner Up- Md Shamsad Alam (RJD)\nVotes- 69370 (Minority)\n2nd Runner Up- Anil Prasad Sah (JSP)\nVotes- 5905 (Teli)"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "40. Jamui (SC)",
+      "assembly": "Jhajha",
+      "details": "Jhajha\nMLA- Damodar rawat (JDU)\nVotes- 108317 (Dhanuk)\nRunner Up- Jay Prakash Narayan Yadav (RJD)\nVotes- 104055 (Yadav)\n2nd Runner Up- Mohammad Irfan (Ind.)\nVotes- 9578 (Minority)\n3rd Runner Up- Nilendu Dutta Mishra (JSP)\nVotes- 6148 (Bramhim)"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "40. Jamui (SC)",
+      "assembly": "Chakai",
+      "details": "Chakai\nMLA - Savitri Devi (RJD)\nVotes - 80357 (Yadav)\nRunner Up - Sumit Kumar Singh (JDU)\nVotes - 67385 (Rajput)\n2nd Runner Up - Sanjay Prasad (Ind.)\nVotes - 48065 (Bhumihar)\n9th Runner Up- Rahul Kumar (JSP)\nVotes - 1898 (Bhumihar)"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "27. Banka",
+      "assembly": "Katoria (ST)",
+      "details": "Katoria (ST)\nMLA - Puran Lal Tudu (BJP)\nVotes - 94260 (Santhal)\nRunner Up - Sweety Sima Hembrom (RJD)\nVotes - 83274 (Santhal)\n2nd Runner Up - Rekha Soren (Ind.)\nVotes - 3652 (Santhal)\n3rd Runner Up- Salomi Murmu (JSP)\nVotes - 2443 (Santhal)"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "27. Banka",
+      "assembly": "Dhoraiya (SC)",
+      "details": "Dhauraiya (SC)\nMLA - Manish Kumar (JDU)\nVotes - 113011 (Pasi)\nRunner Up - Tribhuwan Prasad (RJD)\nVotes - 90585 (Ravidas)\n2nd Runner Up - Suman Paswan (JSP)\nVotes - 6284 (Dusadh)"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "27. Banka",
+      "assembly": "Belhar",
+      "details": "Belhar\nMLA- Manoj Yadav (JDU)\nVotes- 115393 (Yadav)\nRunner Up- Chanakya Prakash Ranjan (RJD)\nVotes- 78187 (Yadav)\n2nd Runner Up- Braj Kishor Pandit (JSP)\nVotes- 7711 (Kumhar)"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "27. Banka",
+      "assembly": "Amarpur",
+      "details": "Amarpur\nMLA- Jayant Raj (JDU)\nVotes- 103944 ( Kushwaha)\nRunner Up- Jitendra Singh (INC)\nVotes- 70723 (Rajput)\n2nd Runner Up- Sujata Vaidya (JSP)\nVotes- 4789 (Kushwaha)"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "27. Banka",
+      "assembly": "Banka",
+      "details": "Banka\nMLA - Ram Narayan Mandal (BJP)\nVotes - 95588 (Teli)\nRunner Up - Sanjay Kumar (CPI)\nVotes - 71824 (Yadav)\n2nd Runner Up - Kaushal Kishore Singh (JSP)\nVotes - 6649 (Rajput)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "40. Jamui (SC)",
+      "assembly": "Sheikhpura",
+      "details": "Sheikhpura\nMLA - Randhir Kumar Soni (JDU)\nVotes - 82922 ( Kurmi)\nRunner Up- Vijay Kumar (RJD)\nVotes - 60375 (Yadav)\n2nd Runner Up- Rajesh Kumar (JSP)\nVotes - 3879 (Bhumihar)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "39. Nawada",
+      "assembly": "Barbigha",
+      "details": "Barbigha\nMLA- Dr. Kumar Puspanjay (JDU)\nVotes- 61882 (Bhumihar)\nRunner Up- Trishuldhari Singh (INC)\nVotes- 36389 (Bhumihar)\n2nd Runner Up- Sudarshan Kumar (IND)\nVotes- 28411 (Bhumihar)\n3rd Runner Up- Muskesh Kumar Singh (JSP)\nVotes- 4684 (Bhumihar)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "28. Munger",
+      "assembly": "Suryagarha",
+      "details": "Suryagarha\n\nMLA- Ramanand Mandal (JDU)\nVotes- 101968 (Dhanuk)\n\nRunner Up- Premsagar Choudhary (RJD)\nVotes- 78107 (Yadav)\n\n2nd Runner Up- Ravishankar Prasad Singh (Ind.)\nVotes- 38175 (Bhumihar)\n\n3rd Runner Up- Amit Sagar (JSP)\nVotes- 8429 (Kurmi)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "28. Munger",
+      "assembly": "Lakhisarai",
+      "details": "Lakhisarai\nMLA - Vijay Kumar Sinha (BJP)\nVotes - 122408 (Bhumihar)\nRunner Up - Amresh Kumar (INC)\nVotes - 97468 (Bhumihar)\n2nd Runner Up - Suraj Kumar (JSP)\nVotes - 8722 (Bhumihar)"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "26. Bhagalpur",
+      "assembly": "Bhagalpur",
+      "details": "Bhagalpur\nMLA - Rohit Pandey (BJP)\nVotes - 100770 ( Bramhin )\nRunner Up - Ajeet Sharma (INC)\nVotes - 87296 ( Bhumihar )\n2nd Runner Up - Abhay Kant Jha (JSP)\nVotes - 3251 ( Brahmin )"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "26. Bhagalpur",
+      "assembly": "Kahalgaon",
+      "details": "Kahalgaon\nMLA- Shubhanand Mukesh (JDU)\nVotes- 130767 (Kurmi)\nRunner Up- Rajnish Bharti (RJD)\nVotes- 80655 (Yadav)\n2nd Runner Up- Pawan Kumar Yadav (Ind.)\nVotes- 10244 (Yadav)\n3rd Runner Up- Pravin Singh (INC)\nVotes- 10083 ( Kushwaha )\n5th Runner Up- Manjar Alam (JSP)\nVotes- 3348 ( Minority )"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "26. Bhagalpur",
+      "assembly": "Bihpur",
+      "details": "Bihpur\nMLA - Kumar Shailendra (BJP)\nVotes - 91458 (Bhumihar)\nRunner Up - Arpana Kumari (VIP)\nVotes - 61433 (Gangota)\n2nd Runner Up - Pawan Chaudhary (JSP)\nVotes - 8821 (Bhumihar)\n3rd Runner Up- Mamta Kumari (Ind.)\nVotes - 2530 ( Ravidas )"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "26. Bhagalpur",
+      "assembly": "Pirpainti (SC)",
+      "details": "Pirpainti (SC)\n\nMLA- Murari Paswan (BJP)\nVotes- 140608 (Dusadh)\n\nRunner Up- Ram Vilas Pasvan (RJD)\nVotes- 87501 (Dusadh)\n\n2nd Runner Up- Ghanshyam Das (JSP)\nVotes- 5644 (Ravidas)\n\n3rd Runner Up- Rahul Kumar Paswan (Ind.)\nVotes- 2533 (Dusadh)"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "27. Banka",
+      "assembly": "Sultanganj",
+      "details": "Sultanganj\n\nMLA- Lalit Narayan Mandal (JDU)\nVotes- 108712 (Dhanuk)\n\nRunner Up- Chandan Kumar Sinha (RJD)\nVotes- 77576 (Kurmi)\n\n2nd Runner Up- Rakesh Kumar (JSP)\nVotes- 4402 (Yadav)\n\n3rd Runner Up- Ajit Kumar (Ind.)\nVotes- 4286"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "26. Bhagalpur",
+      "assembly": "Nathnagar",
+      "details": "Nathnagar\nMLA - Mithun Kumar (LJP-R) Votes - 118143 ( Yadav )\nRunner Up - Sheikh Zeyaul Hassan (RJD)\nVotes - 92719 ( Minority )\n2nd Runner Up - Md Ismail ( AIMIM )\nVotes - 8226 ( Minority )\n3rd Runner Up- Ajay Kumar Roy (JSP)\nVotes - 5233 ( Dhanuk )"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "26. Bhagalpur",
+      "assembly": "Gopalpur",
+      "details": "Gopalpur\nMLA- Shailesh Kumar Alias Bulo Mandal (JDU)\nVotes- 108630 (Gangota)\nRunner Up- Prem sagar Alias Dablu yadav (VIP)\nVotes- 50495 (Yadav)\n2nd Runner Up- Narendra Kumar Niraj (Ind.)\nVotes- 12686 (Gangota)\n3rd Runner Up- Mankeshwar Singh (JSP)\nVotes- 4701 (Kushwaha)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "29. Nalanda",
+      "assembly": "Islampur",
+      "details": "Islampur\n\nMLA- Ruhail Ranjan (JDU)\nVotes- 100487 (Kurmi)\n \nRunner Up- Rakesh Kumar Raushan (RJD)\nVotes- 68248 (Yadav)\n\n2nd Runner Up- Tanuja Kumari ( JSP)\nVotes- 4779 (Kurmi)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "29. Nalanda",
+      "assembly": "Harnaut",
+      "details": "Harnaut\nMLA - Hari Narayan Singh (JDU)\nVotes - 106954 (Kurmi)\nRunner Up - Arun Kumar (INC)\nVotes - 58619 (Bind)\n2nd Runner Up - Kamlesh Paswan (JSP)\nVotes - 7927 (Dusadh)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "29. Nalanda",
+      "assembly": "Asthawan",
+      "details": "Asthawan\nMLA - Jitendar Kumar (JDU)\nVotes - 90542 (Kurmi)\nRunner Up - Ravi Ranjan Kumar (RJD)\nVotes - 49834 (Bhumihar)\n2nd Runner Up - Lata Singh (JSP)\nVotes - 15962 (Kurmi)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "29. Nalanda",
+      "assembly": "Biharsharif",
+      "details": "Biharsharif\nMLA - Dr Sunil Kumar (BJP)\nVotes - 109304 (Kushwaha)\nRunner Up - Omair Khan (INC)\nVotes - 80136 (Minority)\n2nd Runner Up - Manoj Kumar Tanti (Ind.)\nVotes - 6315 ( Tanti)\n3rd Runner Up- Dinesh Kumar (JSP)\nVotes - 6044 ( Kushwaha )"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "29. Nalanda",
+      "assembly": "Nalanda",
+      "details": "Nalanda\nMLA - Shrawon Kumar (JDU)\nVotes - 105432 (Kurmi)\nRunner Up - Kaushalendar Kumar (INC)\nVotes - 72424 (Kurmi)\n2nd Runner Up - Kumari Poonam Sinha (JSP)\nVotes - 5206 (Kurmi)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "29. Nalanda",
+      "assembly": "Hilsa",
+      "details": "Hilsa\nMLA - Krishna Murari Sharan (JDU)\nVotes - 96009 (Kurmi)\nRunner Up - Atri Muni / Shakti Singh Yadav (RJD)\nVotes - 79997 ( Yadav)\n2nd Runner Up - Umesh Kumar Verma (JSP)\nVotes - 4252 ( Sonar)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "29. Nalanda",
+      "assembly": "Rajgir (SC)",
+      "details": "Rajgir (SC)\nMLA - Kaushal Kishore (JDU)\nVotes - 107811 (Ravidas)\nRunner Up - Bishwanath Chaudhary (CPI-ML)\nVotes - 52383 (Pasi)\n2nd Runner Up - Satendra Kumar (JSP)\nVotes - 9916 (Dusadh)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "39. Nawada",
+      "assembly": "Hisua",
+      "details": "Hisua\nMLA- Anil Singh (BJP)\nVotes- 95885 (Bhumihar)\nRunner Up- Nitu Kumari (INC)\nVotes- 68036 (Bhumihar)\n2nd Runner Up- Dharmendra Kumar (Ind.)\nVotes- 27871 (Rajwar)\n3rd Runner Up- Sury dev Prasad (JSP)\nVotes- 5063 (Dangi)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "39. Nawada",
+      "assembly": "Warsaliganj",
+      "details": "Warsaliganj\n\nMLA- Anita (RJD)\nVotes- 97833 (Kurmi)\n\nRunner Up- Aruna Devi (BJP)\nVotes- 90290 (Bhumihar)\n\n3rd Runner Up- Umesh Prasad (JSP)\nVotes- 1626 (Yadav)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "39. Nawada",
+      "assembly": "Nawada",
+      "details": "Nawada\nMLA- Vibha Devi ( JDU )\nVotes - 87423 (Yadav)\nRunner Up- Kaushal Yadav ( RJD )\nVotes - 59829 (Yadav)\n2nd Runner Up- Anuj Singh ( JSP )\nVotes - 19349 (Bhumihar)\n3rd Runner Up- Nasima Khatoon ( AIMIM )\nVotes - 12835 (Minority)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "39. Nawada",
+      "assembly": "Gobindpur",
+      "details": "238-Gobindpur\nMLA- Binita Mehta (LJP-R)\nVotes - 72581 (+22906) (Kushwaha)\nRunner Up- Purnima Yadav (RJD)\nVotes - 49675 (Yadav)\n2nd Runner Up- MD Kamran (Ind.)\nVotes - 39183 (Minority)\n3rd Runner Up- Poonam Kumari (JSP)\nVotes - 3917 (Teli)"
+    },
+    {
+      "zone": "Nalanda",
+      "loksabha": "39. Nawada",
+      "assembly": "Rajauli (SC)",
+      "details": "Rajauli (SC)\n\nMLA- Vimal Rajbanshi (LJP-R)\nVotes- 90272 (Rajwar)\n\nRunner Up- Pinki Bharti (RJD)\nVotes- 86319 (Pasi)\n\n2nd Runner Up- Akhilesh Kumar(BSP)\nVotes- 3832 (Pasi)\n\n3rd Runner Up- Naresh Chaudhary (JSP)\nVotes- 3321 (Pasi)"
+    },
+    {
+      "zone": "Sahabad",
+      "loksabha": "33. Buxar",
+      "assembly": "Brahampur",
+      "details": "Brahampur\nMLA - Shambhu Nath Yadav ( RJD )\nCaste- Yadav\nVotes - 95828\nRunner Up - Hulas Pande ( LJP )\nCaste- Bhumiar\nVotes - 92608\n2nd Runner Up - Mahavir Yadav ( BSP )\nCaste- Yadav\nVotes - 4599\n3rd Runner Up- Manish Bhushan Ojha ( IND )\nCaste- Brahmin Votes - 2751"
+    },
+    {
+      "zone": "Munger",
+      "loksabha": "28. Munger",
+      "assembly": "Munger",
+      "details": "Munger\nMLA - Kumar Pranay (BJP)\nVotes - 108028 (Baniya) (Teli)\nRunner Up - Avinash Kumar Vidyarthi (RJD)\nVotes - 89278 (Yadav)\n2nd Runner Up - Monazir Hassan (AIMIM)\nVotes - 3598 (Minority)\n4rd Runner Up- Sanjay Kumar Singh (JSP)\nVotes - 1809 (Dhanuk)"
+    },
+    {
+      "zone": "Patna",
+      "loksabha": "31. Pataliputra",
+      "assembly": "Danapur",
+      "details": "Danapur\nMLA - Ram Kirpal Yadav (BJP)\nVotes - 119877 (Yadav)\nRunner Up - Rit Lal Yadav (RJD)\nVotes - 90744 (Yadav)\n2nd Runner Up - Shailesh K.R Dhiraj (Ind.)\nVotes - 2786 (Yadav)"
+    }
+  ],
+  "loksabha": [
+    {
+      "zone": "1. Valmiki Nagar",
+      "loksabha": "Winner: Sunil Kumar (JDU) 5,23,422 | Runner-up: Deepak Yadav (RJD) 4,24,747 | 2nd: Shaifi Mohammad Miya (ASP-KR) 13,432"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "2. Paschim Champaran",
+      "loksabha": "Winner: Dr. Sanjay Jaiswal (BJP) 5,80,421 | Runner-up: Madan Mohan Tiwari (INC) 4,43,953 | 2nd: Dilip Verma (IND) 19,451"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "3. Purvi Champaran",
+      "loksabha": "Winner: Radha Mohan Singh (BJP) 5,42,193 | Runner-up: Dr. Rajesh Kumar (VIP) 4,53,865 | 2nd: Umesh Shah (BSP) 17,914"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "4. Sheohar",
+      "loksabha": "Winner: Lovely Anand (JDU) 4,76,612 | Runner-up: Ritu Jaiswal (RJD) 4,47,469 | 2nd: Yogendra Ram (IND) 15,106"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "5. Sitamarhi",
+      "loksabha": "Winner: Devesh Chandra Thakur (JDU) 5,15,719 | Runner-up: Arjun Rai (RJD) 4,64,463 | 2nd: Ramesh Kumar Mehto (IND) 15,861"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "6. Madhubani",
+      "loksabha": "Winner: Ashok Kumar Yadav (BJP) 5,53,428 | Runner-up: Ali Ashraf Fatmi (RJD) 4,01,483 | 2nd: Dharmendra Kumar (IND) 22,031"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "7. Jhanjharpur",
+      "loksabha": "Winner: Ramprit Mandal (JDU) 5,33,032 | Runner-up: Suman Kumar Mahaseth (VIP) 3,48,863 | 2nd: Gulab Yadav (BSP) 1,91,154"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "8. Supaul",
+      "loksabha": "Winner: Dileshwar Kamait (JDU) 5,95,038 | Runner-up: Chandrahas Chaupal (RJD) 4,25,235 | 2nd: Narendra Kumar (IND) 21,348"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "9. Araria",
+      "loksabha": "Winner: Pradeep Kumar Singh (BJP) 6,00,146 | Runner-up: M. Shahnawaz Alam (RJD) 5,80,052 | 2nd: Shatrughan Pd Suman (IND) 23,204"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "10. Kishanganj",
+      "loksabha": "Winner: Mohammad Jawed (INC) 4,02,850 | Runner-up: Mujahid Alam (JDU) 3,43,158 | 2nd: Akhtarul Iman (AIMIM) 3,09,264"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "11. Katihar",
+      "loksabha": "Winner: Tariq Anwar (INC) 5,67,092 | Runner-up: Dulal Chandra Goswami (JDU) 5,17,229 | 2nd: Gopal Pd. Mahto (IND) 16,984"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "12. Purnia",
+      "loksabha": "Winner: Rajesh Ranjan @ Pappu Yadav (IND) 5,67,556 | Runner-up: Santosh Kushwaha (JDU) 5,43,709 | 2nd: Bima Bharti (RJD) 27,120"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "13. Madhepura",
+      "loksabha": "Winner: Dinesh Chandra Yadav (JDU) 6,40,649 | Runner-up: Kumar Chandradeep (RJD) 4,66,115 | 2nd: Mohan Sah (IND) 15,313"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "14. Darbhanga",
+      "loksabha": "Winner: Gopal Jee Thakur (BJP) 5,66,630 | Runner-up: Lalit Kumar Yadav (RJD) 3,88,474 | 2nd: Ram Narayan Mahato (IND) 14,249"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "15. Muzaffarpur",
+      "loksabha": "Winner: Raj Bhushan Nishad (BJP) 6,19,749 | Runner-up: Ajay Nishad (INC) 3,84,822 | 2nd: Ritesh Kumar (BSP) 15,224"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "16. Vaishali",
+      "loksabha": "Winner: Veena Devi (LJPRV) 5,67,043 | Runner-up: Vijay Kumar Shukla (RJD) 4,77,373 | 2nd: S.M. Jha (IND) 22,810"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "17. Gopalganj (SC)",
+      "loksabha": "Winner: Alok Kumar Suman (JDU) 5,18,445 | Runner-up: Prem Nath Chanchal (VIP) 2,49,265 | 2nd: Dinanath Majhi (BSP) 40,432"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "18. Siwan",
+      "loksabha": "Winner: Vijay Lakshmi Devi (JDU) 3,86,508 | Runner-up: Hena Shahab (IND) 2,93,651 | 2nd: Awadh Bihari Choudhary (RJD) 1,98,823"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "19. Maharajganj",
+      "loksabha": "Winner: Janardan Singh Sigriwal (BJP) 5,29,533 | Runner-up: Akash Prasad Singh (INC) 4,26,882 | 2nd: Madhu Singh (BSP) 14,082"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "20. Saran",
+      "loksabha": "Winner: Rajiv Pratap Rudy (BJP) 4,71,752 | Runner-up: Rohini Acharya (RJD) 4,58,091 | 2nd: Dhananjay Pd. Singh (IND) 15,108"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "21. Hajipur (SC)",
+      "loksabha": "Winner: Chirag Paswan (LJPRV) 6,15,718 | Runner-up: Shiv Chandra Ram (RJD) 4,45,613 | 2nd: Savitri Devi (BSP) 10,250"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "22. Ujiarpur",
+      "loksabha": "Winner: Nityanand Rai (BJP) 5,15,965 | Runner-up: Alok Kumar Mehta (RJD) 4,55,863 | 2nd: Vinay Kumar (BSP) 13,296"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "23. Samastipur (SC)",
+      "loksabha": "Winner: Shambhavi Choudhary (LJPRV) 5,79,786 | Runner-up: Sunny Hazari (INC) 3,92,535 | 2nd: Arvind Kumar Sahani (IND) 22,234"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "24. Begusarai",
+      "loksabha": "Winner: Giriraj Singh (BJP) 6,49,331 | Runner-up: Abdhus Samad (CPI) 5,67,851 | 2nd: Ravindra Kumar (IND) 13,858"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "25. Khagaria",
+      "loksabha": "Winner: Rajesh Verma (LJPRV) 5,37,862 | Runner-up: Sanjay Kumar (CPIM) 3,76,731 | 2nd: Devkant Roy (IND) 25,274"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "26. Bhagalpur",
+      "loksabha": "Winner: Ajay Kumar Mandal (JDU) 5,36,031 | Runner-up: Ajeet Sharma (INC) 4,31,163 | 2nd: Ranjeet Kumar (IND) 17,921"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "27. Banka",
+      "loksabha": "Winner: Giridhari Yadav (JDU) 4,76,677 | Runner-up: Jai Prakash N. Yadav (RJD) 3,72,833 | 2nd: Sitaram Yadav (BSP) 20,563"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "28. Munger",
+      "loksabha": "Winner: Rajiv Ranjan Singh (JDU) 5,51,767 | Runner-up: Kumari Anita (RJD) 4,70,897 | 2nd: Md. Kamran (IND) 10,751"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "29. Nalanda",
+      "loksabha": "Winner: Kaushalendra Kumar (JDU) 5,21,988 | Runner-up: Sandeep Saurav (CPIML) 3,52,874 | 2nd: Mohammad Imran (BSP) 13,832"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "30. Patna Sahib",
+      "loksabha": "Winner: Ravi Shankar Prasad (BJP) 5,88,270 | Runner-up: Anshul Avijit (INC) 4,34,424 | 2nd: Lallan Kumar (IND) 11,215"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "31. Pataliputra",
+      "loksabha": "Winner: Misa Bharti (RJD) 6,13,283 | Runner-up: Ram Kripal Yadav (BJP) 5,28,109 | 2nd: Raju Kumar (IND) 12,479"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "32. Arrah",
+      "loksabha": "Winner: Sudama Prasad (CPIML) 5,29,382 | Runner-up: R. K. Singh (BJP) 4,69,574 | 2nd: Sree Kumar Singh (IND) 13,313"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "33. Buxar",
+      "loksabha": "Winner: Sudhakar Singh (RJD) 4,38,345 | Runner-up: Mithilesh Tiwari (BJP) 4,08,254 | 2nd: Anand Mishra (IND) 95,033"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "34. Sasaram (SC)",
+      "loksabha": "Winner: Manoj Kumar (INC) 4,33,767 | Runner-up: Shivesh Ram (BJP) 4,14,610 | 2nd: Sushil Bhagat (BSP) 30,223"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "35. Karakat",
+      "loksabha": "Winner: Raja Ram Singh (CPIML) 3,80,581 | Runner-up: Pawan Singh (IND) 2,74,723 | 2nd: Upendra Kushwaha (RLM) 2,53,876"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "36. Jehanabad",
+      "loksabha": "Winner: Surendra Prasad Yadav (RJD) 4,43,035 | Runner-up: Chandeshwar Prasad (JDU) 3,00,444 | 2nd: Arun Kumar (IND) 1,81,960"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "37. Aurangabad",
+      "loksabha": "Winner: Abhay Kushwaha (RJD) 4,65,567 | Runner-up: Sushil Kumar Singh (BJP) 3,86,456 | 2nd: Suresh Singh (BSP) 12,319"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "38. Gaya (SC)",
+      "loksabha": "Winner: Jitan Ram Manjhi (HAM) 4,94,960 | Runner-up: Kumar Sarvjeet (RJD) 3,93,148 | 2nd: Sushila Devi (BSP) 14,756"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "39. Nawada",
+      "loksabha": "Winner: Vivek Thakur (BJP) 4,10,506 | Runner-up: Shravan Kumar (RJD) 3,42,836 | 2nd: Gunjan Kumar (IND) 61,544"
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "",
+      "loksabha": ""
+    },
+    {
+      "zone": "40. Jamui (SC)",
+      "loksabha": "Winner: Arun Bharti (LJPRV) 5,09,047 | Runner-up: Archana Ravidas (RJD) 3,96,565 | 2nd: Sakaldeo Das (BSP) 25,622"
+    }
+  ]
+}

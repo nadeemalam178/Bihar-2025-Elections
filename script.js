@@ -807,14 +807,26 @@ function handleAssemblyChange() {
 async function initDashboard() {
     setLoading();
 
-    try {
-        const response = await fetch(API);
-
-        if (!response.ok) {
-            throw new Error("The election API returned an error.");
+        let rawData = null;
+        // 1. Try offline-first local data bundle
+        try {
+            const localRes = await fetch("data/election_data.json");
+            if (localRes.ok) {
+                rawData = await localRes.json();
+                console.info(" Loaded election data from local offline bundle.");
+            }
+        } catch (localErr) {
+            console.warn("Local data fetch error, attempting live Google Apps Script API:", localErr);
         }
 
-        const rawData = await response.json();
+        // 2. Fallback to remote Google Apps Script if local file was not reachable
+        if (!rawData) {
+            const response = await fetch(API);
+            if (!response.ok) {
+                throw new Error("The election API returned an error.");
+            }
+            rawData = await response.json();
+        }
 
         const assemblyRaw = rawData.assembly || (Array.isArray(rawData) ? rawData : []);
         const loksabhaRaw = rawData.loksabha || [];
